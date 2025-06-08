@@ -1,5 +1,37 @@
 {
 	"paper": [
+    {
+			"image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@2dcc2b1f7d848b8088ae4a1271ad32edaa010712/images/creativeWritingAndAI.png",
+			"title": "From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice",
+			"id": "from-pen-to-prompt-how-creative-writers-integrate-ai-into-their-writing-practice",
+			"author": [
+				{
+					"author_name": "Alicia Guo"
+				},
+				{
+					"author_name": "Shreya Sathyanarayanan"
+				},
+				{
+					"author_name": "Leijie Wang"
+				},
+				{
+					"author_name": "Jeffrey Heer"
+				},
+        {
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM Creativity & Cognition 2025",
+			"conference url": "https://cc.acm.org/2025/",
+			"conference": "C&C",
+			"year": "2025",
+			"short_abstract": "<p>We characterize the interplay between writers’ values, their fluid relationships with AI, and specific integration strategies—ultimately enabling writers to create new AI workflows without compromising their creative values. We provide insight for writing communities, AI developers and future researchers on the importance of supporting transparency of these emerging writing processes and rethinking what AI features can best serve writers.</p>",
+			"abstract": "Creative writing is a deeply human craft, yet AI systems using large language models (LLMs) offer the automation of significant parts of the writing process. So why do some creative writers choose to use AI? Through interviews and observed writing sessions with 18 creative writers who already use AI regularly in their writing practice, we find that creative writers are intentional about how they incorporate AI, making many deliberate decisions about when and how to engage AI based on their core values, such as authenticity and craftsmanship. We characterize the interplay between writers’ values, their fluid relationships with AI, and specific integration strategies—ultimately enabling writers to create new AI workflows without compromising their creative values. We provide insight for writing communities, AI developers and future researchers on the importance of supporting transparency of these emerging writing processes and rethinking what AI features can best serve writers.",
+			"bibtex": "@misc{guo2025penpromptcreativewriters, title={From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice}, author={Alicia Guo and Shreya Sathyanarayanan and Leijie Wang and Jeffrey Heer and Amy Zhang}, year={2025}, eprint={2411.03137}, archivePrefix={arXiv}, primaryClass={cs.HC}, url={https://arxiv.org/abs/2411.03137},}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2411.03137"
+			}
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@15a38cf2b0855846bf164047ac0e0dbdfccc28a6/images/Screenshot%202025-03-22%20at%2009.51.32.png",
 			"title": "End User Authoring of Personalized Content Classifiers: Comparing Example Labeling, Rule Writing, and LLM Prompting",
