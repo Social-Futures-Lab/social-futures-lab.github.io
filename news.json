@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://assets.amazon.science/07/d9/d204ca2242bea8215dbf9ca5c43e/amazon-science-logo.svg",
+			"title": "We received a grant from Amazon to build tools for AI agent governance",
+			"date": "June 2025",
+			"description": "Amazon Research Awards awarded a grant on the topic of \"Tools for Governing AI Agent Autonomy\" to our lab as part of their AWS AI grant call.",
+			"link": {
+				"link_url": "https://www.amazon.science/research-awards/program-updates/70-amazon-research-award-recipients-announced",
+				"link_text": "Award announcement"
+			}
+		},
+		{
 			"image": "https://pdsoros.org/wp-content/uploads/2025/03/Andre-Ye.white-bkgrd-tight-1-819x1024.jpg",
 			"title": "Andre is a 2025 PD Soros Fellow",
 			"date": "April 2025",
