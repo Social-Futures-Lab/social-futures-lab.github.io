@@ -1,6 +1,15 @@
 {
 	"news_item": [
 		{
+			"image": "https://pdsoros.org/wp-content/uploads/2025/03/Andre-Ye.white-bkgrd-tight-1-819x1024.jpg",
+			"title": "Andre is a 2025 PD Soros Fellow",
+			"description": "Andre is a member of the 2025 Class of Paul &amp; Daisy Soros Fellows, along with 29 other fellows. Selected from more than 2,600 applicants, each of the recipients was chosen for their potential to make significant contributions to the United States and will receive up to $90,000 in funding over two years. Congrats Andre!",
+			"link": {
+				"link_url": "https://pdsoros.org/fellows/andre-ye/",
+				"link_text": "Announcement"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5a7a33950eebc572b416df277765b61d4e3836da/images/Sloan%20Research%20Fellow%202025%20hero%20slider.png",
 			"title": "Amy is a 2025 Sloan Research Fellow",
 			"date": "Feb 2025",
