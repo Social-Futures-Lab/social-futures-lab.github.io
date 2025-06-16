@@ -1,6 +1,36 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@858f6f26a03d0406a0185af3e3e717d82fea9926/images/socialvr.jpg",
+			"title": "Building Proactive and Instant-Reactive Safety Designs to Address Harassment in Social Virtual Reality",
+			"id": "harassment-social-vr",
+			"author": [
+				{
+					"author_name": "Simona Liao"
+				},
+				{
+					"author_name": "Hanwen Zhao"
+				},
+				{
+					"author_name": "Ayush Kulkarni"
+				},
+				{
+					"author_name": "Shaan Chattrath"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference url": "https://cscw.acm.org/2025/",
+			"conference": "CSCW",
+			"year": "2025",
+			"short_abstract": "<p>In social VR, proactive designs prevent harassment from occurring, while instant-reactive designs minimize harm during incidents. We explore three directions for design: user-initiated personal bubbles, clarifying social norms, and encouraging bystander intervention.&nbsp;</p>",
+			"abstract": "Social Virtual Reality (VR) games offer immersive socialization experiences but pose significant challenges of harassment. Common solutions, such as reporting and moderation, address harassment after it happens but fail to prevent or stop harassment in the moment. In this study, we explore and design proactive and instant-reactive safety designs to mitigate harassment in social VR. Proactive designs prevent harassment from occurring, while instant-reactive designs minimize harm during incidents. We explore three directions for design: user-initiated personal bubbles, clarifying social norms, and encouraging bystander intervention. Through an iterative process, we first conducted a formative interview study to determine design goals for making these features effective, fit user needs, and robust to manipulation. We then implemented Puffer, an integrated safety system that includes a suite of proactive and instant-reactive features, as a social VR prototype. From an evaluation using simulated scenarios with participants, we find evidence that Puffer can help protect players during emergencies, foster prosocial norms, and create more positive social interactions. We conclude by discussing how system safety features can be designed to complement existing proactive and instant-reactive strategies, particularly for people with marginalized identities.",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2504.05781"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@9633452f3dd26e4f6c66d1165da4a9d217f6db8c/images/plotjury.jpg",
 			"title": "Perceived Legitimacy of Layperson and Expert Content Moderators",
 			"id": "perceived-legitimacy",
