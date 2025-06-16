@@ -1,41 +1,6 @@
 {
 	"paper": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@8af91130592b527a74e8bbc21d2b70f48aed4941/images/canvil.jpg",
-			"title": "Canvil: Designerly Adaptation for LLM-Powered User Experiences",
-			"id": "canvil",
-			"author": [
-				{
-					"author_name": "Kevin Feng"
-				},
-				{
-					"author_name": "Q Vera Liao"
-				},
-				{
-					"author_name": "Ziang Xiao"
-				},
-				{
-					"author_name": "Jennifer Wortman Vaughan"
-				},
-				{
-					"author_name": "Amy Zhang"
-				},
-				{
-					"author_name": "David McDonald"
-				}
-			],
-			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
-			"conference url": "https://chi2025.acm.org/",
-			"conference": "CHI",
-			"year": "2025",
-			"short_abstract": "<p>We built Canvil, a Figma widget that operationalizes designerly adaptation. We used Canvil as a probe to study designerly adaptation in a group-based design study.</p>",
-			"abstract": "Advancements in large language models (LLMs) are sparking a proliferation of LLM-powered user experiences (UX). In product teams, designers often craft UX to meet user needs, but it is unclear how they engage with LLMs as a novel design material. Through a formative study with 12 designers, we find that designers seek a translational process that enables design requirements to shape and be shaped by LLM behavior, motivating a need for designerly adaptation to facilitate this translation. We then built Canvil, a Figma widget that operationalizes designerly adaptation. We used Canvil as a probe to study designerly adaptation in a group-based design study (6 groups, N = 17), finding that designers constructively iterated on both adaptation approaches and interface designs to enhance end-user interaction with LLMs. Furthermore, designers identified promising collaborative workflows for designerly adaptation. Our work opens new avenues for processes and tools that foreground designers’ human-centered expertise when developing LLM-powered applications.",
-			"bibtex": "@inproceedings{10.1145/3706598.3713139,\nauthor = {Feng, K. J. Kevin and Liao, Q. Vera and Xiao, Ziang and Wortman Vaughan, Jennifer and Zhang, Amy X. and McDonald, David W.},\ntitle = {Canvil: Designerly Adaptation for LLM-Powered User Experiences},\nyear = {2025},\nisbn = {9798400713941},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3706598.3713139},\ndoi = {10.1145/3706598.3713139},\nabstract = {Advancements in large language models (LLMs) are sparking a proliferation of LLM-powered user experiences (UX). In product teams, designers often craft UX to meet user needs, but it is unclear how they engage with LLMs as a novel design material. Through a formative study with 12 designers, we find that designers seek a translational process that enables design requirements to shape and be shaped by LLM behavior, motivating a need for designerly adaptation to facilitate this translation. We then built Canvil, a Figma widget that operationalizes designerly adaptation. We used Canvil as a probe to study designerly adaptation in a group-based design study (6 groups, N = 17), finding that designers constructively iterated on both adaptation approaches and interface designs to enhance end-user interaction with LLMs. Furthermore, designers identified promising collaborative workflows for designerly adaptation. Our work opens new avenues for processes and tools that foreground designers’ human-centered expertise when developing LLM-powered applications.},\nbooktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},\narticleno = {932},\nnumpages = {22},\nkeywords = {large language models, user experience, design practice},\nlocation = {\n},\nseries = {CHI '25}\n}",
-			"links": {
-				"pdf_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713139"
-			}
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@9633452f3dd26e4f6c66d1165da4a9d217f6db8c/images/plotjury.jpg",
 			"title": "Perceived Legitimacy of Layperson and Expert Content Moderators",
 			"id": "perceived-legitimacy",
@@ -242,6 +207,41 @@
 			"bibtex": "@misc{guo2025penpromptcreativewriters, title={From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice}, author={Alicia Guo and Shreya Sathyanarayanan and Leijie Wang and Jeffrey Heer and Amy Zhang}, year={2025}, eprint={2411.03137}, archivePrefix={arXiv}, primaryClass={cs.HC}, url={https://arxiv.org/abs/2411.03137},}",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/2411.03137"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@8af91130592b527a74e8bbc21d2b70f48aed4941/images/canvil.jpg",
+			"title": "Canvil: Designerly Adaptation for LLM-Powered User Experiences",
+			"id": "canvil",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Q Vera Liao"
+				},
+				{
+					"author_name": "Ziang Xiao"
+				},
+				{
+					"author_name": "Jennifer Wortman Vaughan"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David McDonald"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2025.acm.org/",
+			"conference": "CHI",
+			"year": "2025",
+			"short_abstract": "<p>We built Canvil, a Figma widget that operationalizes designerly adaptation. We used Canvil as a probe to study designerly adaptation in a group-based design study.</p>",
+			"abstract": "Advancements in large language models (LLMs) are sparking a proliferation of LLM-powered user experiences (UX). In product teams, designers often craft UX to meet user needs, but it is unclear how they engage with LLMs as a novel design material. Through a formative study with 12 designers, we find that designers seek a translational process that enables design requirements to shape and be shaped by LLM behavior, motivating a need for designerly adaptation to facilitate this translation. We then built Canvil, a Figma widget that operationalizes designerly adaptation. We used Canvil as a probe to study designerly adaptation in a group-based design study (6 groups, N = 17), finding that designers constructively iterated on both adaptation approaches and interface designs to enhance end-user interaction with LLMs. Furthermore, designers identified promising collaborative workflows for designerly adaptation. Our work opens new avenues for processes and tools that foreground designers’ human-centered expertise when developing LLM-powered applications.",
+			"bibtex": "@inproceedings{10.1145/3706598.3713139,\nauthor = {Feng, K. J. Kevin and Liao, Q. Vera and Xiao, Ziang and Wortman Vaughan, Jennifer and Zhang, Amy X. and McDonald, David W.},\ntitle = {Canvil: Designerly Adaptation for LLM-Powered User Experiences},\nyear = {2025},\nisbn = {9798400713941},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3706598.3713139},\ndoi = {10.1145/3706598.3713139},\nabstract = {Advancements in large language models (LLMs) are sparking a proliferation of LLM-powered user experiences (UX). In product teams, designers often craft UX to meet user needs, but it is unclear how they engage with LLMs as a novel design material. Through a formative study with 12 designers, we find that designers seek a translational process that enables design requirements to shape and be shaped by LLM behavior, motivating a need for designerly adaptation to facilitate this translation. We then built Canvil, a Figma widget that operationalizes designerly adaptation. We used Canvil as a probe to study designerly adaptation in a group-based design study (6 groups, N = 17), finding that designers constructively iterated on both adaptation approaches and interface designs to enhance end-user interaction with LLMs. Furthermore, designers identified promising collaborative workflows for designerly adaptation. Our work opens new avenues for processes and tools that foreground designers’ human-centered expertise when developing LLM-powered applications.},\nbooktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},\narticleno = {932},\nnumpages = {22},\nkeywords = {large language models, user experience, design practice},\nlocation = {\n},\nseries = {CHI '25}\n}",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713139"
 			}
 		},
 		{
