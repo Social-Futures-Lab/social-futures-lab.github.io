@@ -1,6 +1,38 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@9633452f3dd26e4f6c66d1165da4a9d217f6db8c/images/plotjury.jpg",
+			"title": "Perceived Legitimacy of Layperson and Expert Content Moderators",
+			"id": "perceived-legitimacy",
+			"author": [
+				{
+					"author_name": "Cameron Martel"
+				},
+				{
+					"author_name": "Adam Berinsky"
+				},
+				{
+					"author_name": "David Rand"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Paul Resnick"
+				}
+			],
+			"conference_full_name": "Proceedings of the National Academy of Sciences Nexus",
+			"conference url": "https://academic.oup.com/pnasnexus",
+			"conference": "PNAS Nexus",
+			"year": "2025",
+			"short_abstract": "<p>We conducted a nationally representative survey experiment (n = 3,000) in which US participants evaluated the legitimacy of hypothetical content moderation juries tasked with evaluating whether online content was harmfully misleading.</p>",
+			"abstract": "Content moderation is a critical aspect of platform governance on social media and of particular relevance to addressing the belief in and spread of misinformation. However, current content moderation practices have been criticized as unjust. This raises an important question—who do Americans want deciding whether online content is harmfully misleading? We conducted a nationally representative survey experiment (n = 3,000) in which US participants evaluated the legitimacy of hypothetical content moderation juries tasked with evaluating whether online content was harmfully misleading. These moderation juries varied on whether they were described as consisting of experts (e.g. domain experts), laypeople (e.g. social media users), or nonjuries (e.g. computer algorithm). We also randomized features of jury composition (size and necessary qualifications) and whether juries engaged in discussion during content evaluation. Overall, participants evaluated expert juries as more legitimate than layperson juries or a computer algorithm. However, modifying layperson jury features helped increase legitimacy perceptions—nationally representative or politically balanced composition enhanced legitimacy, as did increased size, individual juror knowledge qualifications, and enabling juror discussion. Maximally legitimate layperson juries were comparably legitimate with expert panels. Republicans perceived experts as less legitimate compared with Democrats, but still more legitimate than baseline layperson juries. Conversely, larger lay juries with news knowledge qualifications who engaged in discussion were perceived as more legitimate across the political spectrum. Our findings shed light on the foundations of institutional legitimacy in content moderation and have implications for the design of online moderation systems.",
+			"bibtex": "@article{martel2025perceived,\n  title={Perceived legitimacy of layperson and expert content moderators},\n  author={Martel, Cameron and Berinsky, Adam J and Rand, David G and Zhang, Amy X and Resnick, Paul},\n  journal={PNAS nexus},\n  volume={4},\n  number={5},\n  pages={pgaf111},\n  year={2025},\n  publisher={Oxford University Press US}\n}",
+			"links": {
+				"pdf_url": "https://academic.oup.com/pnasnexus/article/4/5/pgaf111/8127913"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5e3444cd1a0420862dd58b9aa2386e440b7208e2/images/discord2.png",
 			"title": "\"It's Great Because It's Ran By Us\": Empowering Teen Volunteer Discord Moderators to Design Healthy and Engaging Youth-Led Online Communities",
 			"id": "teen-discord-mods",
@@ -54,7 +86,7 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@249f0f02ea78fc7ffe571a1dac8db5e473444a90/images/principles.jpg",
-			"title": "African Data Ethics: A discursive framework for Black decolonial data science",
+			"title": "African Data Ethics: A Discursive Framework for Black Decolonial Data Science",
 			"id": "african-data-ethics",
 			"author": [
 				{
