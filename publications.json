@@ -1,6 +1,34 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@aa46f3926428f96bd1c8be4cec4f4ca366638a18/images/pasted-image-1749836712838.png",
+			"title": "Agonistic Image Generation: Unsettling the Hegemony of Intention",
+			"id": "agonistic-image-generation",
+			"author": [
+				{
+					"author_name": "Andrew Shaw"
+				},
+				{
+					"author_name": "Andre Ye"
+				},
+				{
+					"author_name": "Ranjay Krishna"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM Conference on Fairness, Accountability, and Transparency",
+			"conference url": "https://facctconference.org/",
+			"conference": "FAccT",
+			"year": "2025",
+			"short_abstract": "<p>We present an image generation interface designed to embrace open negotiation along the sociopolitical dimensions of image creation. Grounded in the principles of agonistic pluralism (from the Greek agon, meaning struggle), our interface actively engages users with competing visual interpretations of their prompts.</p>",
+			"abstract": "Current image generation paradigms prioritize actualizing user intention - \"see what you intend\" - but often neglect the sociopolitical dimensions of this process. However, it is increasingly evident that image generation is political, contributing to broader social struggles over visual meaning. This sociopolitical aspect was highlighted by the March 2024 Gemini controversy, where Gemini faced criticism for inappropriately injecting demographic diversity into user prompts. Although the developers sought to redress image generation's sociopolitical dimension by introducing diversity \"corrections,\" their opaque imposition of a standard for \"diversity\" ultimately proved counterproductive. In this paper, we present an alternative approach: an image generation interface designed to embrace open negotiation along the sociopolitical dimensions of image creation. Grounded in the principles of agonistic pluralism (from the Greek agon, meaning struggle), our interface actively engages users with competing visual interpretations of their prompts. Through a lab study with 29 participants, we evaluate our agonistic interface on its ability to facilitate reflection - engagement with other perspectives and challenging dominant assumptions - a core principle that underpins agonistic contestation. We compare it to three existing paradigms: a standard interface, a Gemini-style interface that produces \"diverse\" images, and an intention-centric interface suggesting prompt refinements. Our findings demonstrate that the agonistic interface enhances reflection across multiple measures, but also that reflection depends on users perceiving the interface as both appropriate and empowering; introducing diversity without grounding it in relevant political contexts was perceived as inauthentic. Our results suggest that diversity and user intention should not be treated as opposing values to be balanced.",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2502.15242"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@6017715abf8595dd15775b4bd67f5304f149688e/images/pasted-image-1749836527785.png",
 			"title": "Semantic and Expressive Variation in Image Captions Across Language",
 			"id": "image-captions-across-language",
