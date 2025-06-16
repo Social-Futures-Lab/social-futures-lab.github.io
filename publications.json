@@ -1,40 +1,6 @@
 {
 	"paper": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@dda2e618ed552a3b9763f27aac39d160bf3aaec1/images/policycraft.jpg",
-			"title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation",
-			"id": "policycraft",
-			"author": [
-				{
-					"author_name": "Tzu-Sheng Kuo"
-				},
-				{
-					"author_name": "Quan Ze (Jim) Chen"
-				},
-				{
-					"author_name": "Amy Zhang"
-				},
-				{
-					"author_name": "Jane Hsieh"
-				},
-				{
-					"author_name": "Haiyi Zhu"
-				},
-				{
-					"author_name": "Kenneth Holstein"
-				}
-			],
-			"conference_full_name": "ACM Conference on Human Factors in Computing Systems",
-			"conference": "CHI",
-			"year": "2025",
-			"short_abstract": "<p>We present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation.</p>",
-			"abstract": "Community and organizational policies are typically designed in a top-down, centralized fashion, with limited input from impacted stakeholders. This can result in policies that are misaligned with community needs or perceived as illegitimate. How can we support more collaborative, participatory approaches to policy design? In this paper, we present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation. Building on past research that highlights the value of concrete cases in establishing common ground, PolicyCraft supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases. A field study across two university courses showed that students using PolicyCraft reached greater consensus and developed better-supported course policies, compared with those using a baseline system that did not scaffold their use of concrete cases. Reflecting on our findings, we discuss opportunities for future HCI systems to help groups more effectively bridge between abstract policies and concrete cases.",
-			"bibtex": "@inproceedings{10.1145/3706598.3713865,\nauthor = {Kuo, Tzu-Sheng and Chen, Quan Ze and Zhang, Amy X. and Hsieh, Jane and Zhu, Haiyi and Holstein, Kenneth},\ntitle = {PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation},\nyear = {2025},\nisbn = {9798400713941},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3706598.3713865},\ndoi = {10.1145/3706598.3713865},\nabstract = {Community and organizational policies are typically designed in a top-down, centralized fashion, with limited input from impacted stakeholders. This can result in policies that are misaligned with community needs or perceived as illegitimate. How can we support more collaborative, participatory approaches to policy design? In this paper, we present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation. Building on past research that highlights the value of concrete cases in establishing common ground, PolicyCraft supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases. A field study across two university courses showed that students using PolicyCraft reached greater consensus and developed better-supported course policies, compared with those using a baseline system that did not scaffold their use of concrete cases. Reflecting on our findings, we discuss opportunities for future HCI systems to help groups more effectively bridge between abstract policies and concrete cases.},\nbooktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},\narticleno = {805},\nnumpages = {24},\nkeywords = {policy, deliberation, case-based reasoning, participatory design, AI},\nlocation = {\n},\nseries = {CHI '25}\n}",
-			"links": {
-				"pdf_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713865"
-			}
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@9633452f3dd26e4f6c66d1165da4a9d217f6db8c/images/plotjury.jpg",
 			"title": "Perceived Legitimacy of Layperson and Expert Content Moderators",
 			"id": "perceived-legitimacy",
@@ -244,6 +210,40 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@dda2e618ed552a3b9763f27aac39d160bf3aaec1/images/policycraft.jpg",
+			"title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation",
+			"id": "policycraft",
+			"author": [
+				{
+					"author_name": "Tzu-Sheng Kuo"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Jane Hsieh"
+				},
+				{
+					"author_name": "Haiyi Zhu"
+				},
+				{
+					"author_name": "Kenneth Holstein"
+				}
+			],
+			"conference_full_name": "ACM Conference on Human Factors in Computing Systems",
+			"conference": "CHI",
+			"year": "2025",
+			"short_abstract": "<p>We present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation.</p>",
+			"abstract": "Community and organizational policies are typically designed in a top-down, centralized fashion, with limited input from impacted stakeholders. This can result in policies that are misaligned with community needs or perceived as illegitimate. How can we support more collaborative, participatory approaches to policy design? In this paper, we present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation. Building on past research that highlights the value of concrete cases in establishing common ground, PolicyCraft supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases. A field study across two university courses showed that students using PolicyCraft reached greater consensus and developed better-supported course policies, compared with those using a baseline system that did not scaffold their use of concrete cases. Reflecting on our findings, we discuss opportunities for future HCI systems to help groups more effectively bridge between abstract policies and concrete cases.",
+			"bibtex": "@inproceedings{10.1145/3706598.3713865,\nauthor = {Kuo, Tzu-Sheng and Chen, Quan Ze and Zhang, Amy X. and Hsieh, Jane and Zhu, Haiyi and Holstein, Kenneth},\ntitle = {PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation},\nyear = {2025},\nisbn = {9798400713941},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3706598.3713865},\ndoi = {10.1145/3706598.3713865},\nabstract = {Community and organizational policies are typically designed in a top-down, centralized fashion, with limited input from impacted stakeholders. This can result in policies that are misaligned with community needs or perceived as illegitimate. How can we support more collaborative, participatory approaches to policy design? In this paper, we present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation. Building on past research that highlights the value of concrete cases in establishing common ground, PolicyCraft supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases. A field study across two university courses showed that students using PolicyCraft reached greater consensus and developed better-supported course policies, compared with those using a baseline system that did not scaffold their use of concrete cases. Reflecting on our findings, we discuss opportunities for future HCI systems to help groups more effectively bridge between abstract policies and concrete cases.},\nbooktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},\narticleno = {805},\nnumpages = {24},\nkeywords = {policy, deliberation, case-based reasoning, participatory design, AI},\nlocation = {\n},\nseries = {CHI '25}\n}",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713865"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@15a38cf2b0855846bf164047ac0e0dbdfccc28a6/images/Screenshot%202025-03-22%20at%2009.51.32.png",
 			"title": "End User Authoring of Personalized Content Classifiers: Comparing Example Labeling, Rule Writing, and LLM Prompting",
 			"id": "end-user-authoring-of-personalized-content-classifiers-comparing-example-labeling-rule-writing-and-llm-prompting",
@@ -271,12 +271,14 @@
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/2409.03247"
 			},
-			"conference url": "https://chi2025.acm.org/"
+			"conference url": "https://chi2025.acm.org/",
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"bibtex": "@inproceedings{10.1145/3706598.3713691,\nauthor = {Wang, Leijie and Yurechko, Kathryn and Dani, Pranati and Chen, Quan Ze and Zhang, Amy X.},\ntitle = {End User Authoring of Personalized Content Classifiers: Comparing Example Labeling, Rule Writing, and LLM Prompting},\nyear = {2025},\nisbn = {9798400713941},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3706598.3713691},\ndoi = {10.1145/3706598.3713691},\nabstract = {Existing tools for laypeople to create personal classifiers often assume a motivated user working uninterrupted in a single, lengthy session. However, users tend to engage with social media casually, with many short sessions on an ongoing, daily basis. To make creating personal classifiers for content curation easier for such users, tools should support rapid initialization and iterative refinement. In this work, we compare three strategies—(1) example labeling, (2) rule writing, and (3) large language model (LLM) prompting—for end users to build personal content classifiers. From an experiment with 37 non-programmers tasked with creating personalized moderation filters, we found that participants preferred different initializing strategies in different contexts, despite LLM prompting’s better performance. However, all strategies faced challenges with iterative refinement. To overcome challenges in iterating on their prompts, participants even adopted hybrid approaches such as providing examples as in-context examples or writing rule-like prompts.},\nbooktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},\narticleno = {1214},\nnumpages = {21},\nlocation = {\n},\nseries = {CHI '25}\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@aa8060b8faa1298488bdf751d6141744e06fe0ab/images/Screenshot%202025-03-19%20at%208.53.59 AM.png",
 			"title": "Social-RAG: Retrieving from Group Interactions to Socially Ground AI Generation",
-			"id": "social-rag-retrieving-from-group-interactions-to-socially-ground-ai-generation",
+			"id": "social-rag",
 			"author": [
 				{
 					"author_name": "Ruotong Wang"
@@ -306,7 +308,8 @@
 			"links": {
 				"pdf_url": "https://arxiv.org/abs/2411.02353",
 				"video_url": "https://www.loom.com/share/d4a7810a2a5142f7b46beaa7f382d0a9?sid=80f659dd-cfac-4964-bc44-c45bb4342862"
-			}
+			},
+			"bibtex": "@inproceedings{10.1145/3706598.3713749,\nauthor = {Wang, Ruotong and Zhou, Xinyi and Qiu, Lin and Chang, Joseph Chee and Bragg, Jonathan and Zhang, Amy X.},\ntitle = {Social-RAG: Retrieving from Group Interactions to Socially Ground AI Generation},\nyear = {2025},\nisbn = {9798400713941},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3706598.3713749},\ndoi = {10.1145/3706598.3713749},\nabstract = {AI agents are increasingly tasked with making proactive suggestions in online spaces where groups collaborate, yet risk being unhelpful or even annoying if they fail to match group preferences or behave in socially inappropriate ways. Fortunately, group spaces have a rich history of prior interactions and affordances for social feedback that can support grounding an agent’s generations to a group’s interests and norms. We present Social-RAG, a workflow for socially grounding agents that retrieves context from prior group interactions, selects relevant social signals, and feeds them into a language model to generate messages in a socially aligned manner. We implement this in PaperPing, a system for posting paper recommendations in group chat, leveraging social signals determined from formative studies with 39 researchers. From a three-month deployment in 18 channels reaching 500+ researchers, we observed PaperPing posted relevant messages in groups without disrupting their existing social practices, fostering group common ground.},\nbooktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},\narticleno = {162},\nnumpages = {25},\nkeywords = {AI agent, group communication, retrieval augmented generation, recommender systems, large language models},\nlocation = {\n},\nseries = {CHI '25}\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1715159beab0e1d44adf5f29eb07f558b57dd55e/images/cscw-amanda.jpg",
