@@ -1,6 +1,33 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5878b82eb5cfce80b3a33b9f36ac53b317fc3198/images/subreddit.jpg",
+			"title": "Perceptions of Moderators as a Large-Scale Measure of Online Community Governance",
+			"id": "perceptions-of-moderators",
+			"author": [
+				{
+					"author_name": "Galen Weld"
+				},
+				{
+					"author_name": "Leon Leibmann"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Tim Althoff"
+				}
+			],
+			"conference url": "https://cscw.acm.org/2025/",
+			"conference": "CSCW",
+			"year": "2025",
+			"short_abstract": "<p>We label 1.89 million posts and comments made on reddit over an 18 month period. We relate these perceptions to characteristics of community governance, and to different actions that community moderators take. We identify types of communities where moderators are perceived particularly positively and negatively, and highlight promising strategies for moderator teams.</p>",
+			"abstract": "Millions of online communities are governed by volunteer moderators, who shape their communities by setting and enforcing rules, recruiting additional moderators, and participating in the community themselves. These moderators must regularly make decisions about how to govern, yet measuring the 'success' of governance is complex and nuanced, making it challenging to determine what governance strategies are most successful. Furthermore, prior work has shown that communities have differing values, suggesting that 'one-size-fits-all' approaches to governance are unlikely to serve all communities well. In this work, we assess governance practices on reddit by classifying the sentiment of community members' public discussion of their own moderators. We label 1.89 million posts and comments made on reddit over an 18 month period. We relate these perceptions to characteristics of community governance, and to different actions that community moderators take. We identify types of communities where moderators are perceived particularly positively and negatively, and highlight promising strategies for moderator teams. Amongst other findings, we show that strict rule enforcement is linked to more favorable perceptions of moderators of communities dedicated to certain topics, such as news communities, than others. We investigate what kinds of moderators are associated with improved community perceptions upon their addition to a mod team, and find that moderators who are active community members before and during their mod tenures are seen more favorably. We make all our models, datasets, and code public.",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2401.16610"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@858f6f26a03d0406a0185af3e3e717d82fea9926/images/socialvr.jpg",
 			"title": "Building Proactive and Instant-Reactive Safety Designs to Address Harassment in Social Virtual Reality",
 			"id": "harassment-social-vr",
