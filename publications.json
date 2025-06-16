@@ -1,8 +1,32 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@a05197405cec8690ed83c87af628eca14d493c13/images/yearplot.jpg",
+			"title": "Who Puts the\" Social\" in\" Social Computing\"?: Using A Neurodiversity Framing to Review Social Computing Research",
+			"id": "neurodiversity-social-computing",
+			"author": [
+				{
+					"author_name": "Philip Baillargeon"
+				},
+				{
+					"author_name": "Jina Yoon"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction 9 (2), 1-44",
+			"conference": "CSCW",
+			"year": "2025",
+			"short_abstract": "<p>From a critical analysis of 84 publications systematically gathered across a decade of social computing research, we determine that research into social computing with neurodiverse participants is largely medicalized, adheres to historical stereotypes of neurodivergent children and their families, and is insensitive to the wide spectrum of neurodivergent people that are potential users of social technologies.</p>",
+			"abstract": "Human-Computer Interaction (HCI) and Computer Supported Collaborative Work (CSCW) have a longstanding tradition of interrogating the values that underlie systems in order to create novel and accessible experiences. In this work, we use a neurodiversity framing to examine how people with ways of thinking, speaking, and being that differ from normative assumptions are perceived by researchers seeking to study and design social computing systems for neurodivergent people. From a critical analysis of 84 publications systematically gathered across a decade of social computing research, we determine that research into social computing with neurodiverse participants is largely medicalized, adheres to historical stereotypes of neurodivergent children and their families, and is insensitive to the wide spectrum of neurodivergent people that are potential users of social technologies. When social computing systems designed for neurodivergent people rely upon a conception of disability that restricts expression for the sake of preserving existing norms surrounding social experience, the result is often simplistic and restrictive systems that prevent users from \"being social\" in a way that feels natural and enjoyable. We argue that a neurodiversity perspective informed by critical disability theory allows us to engage with alternative forms of sociality as meaningful and desirable rather than a deficit to be compensated for. We conclude by identifying opportunities for researchers to collaborate with neurodivergent users and their communities, including the creation of spectrum-conscious social systems and the embedding of double empathy into systems for more equitable design.",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3711106"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@249f0f02ea78fc7ffe571a1dac8db5e473444a90/images/principles.jpg",
-			"title": "African data ethics: A discursive framework for Black decolonial data science",
+			"title": "African Data Ethics: A discursive framework for Black decolonial data science",
 			"id": "african-data-ethics",
 			"author": [
 				{
@@ -56,7 +80,7 @@
 			"conference url": "https://facctconference.org/",
 			"conference": "FAccT",
 			"year": "2025",
-			"short_abstract": "<p>We present an image generation interface designed to embrace open negotiation along the sociopolitical dimensions of image creation. Grounded in the principles of agonistic pluralism (from the Greek agon, meaning struggle), our interface actively engages users with competing visual interpretations of their prompts.</p>",
+			"short_abstract": "<p>We present an image generation interface designed to embrace open negotiation along the sociopolitical dimensions of image creation. Grounded in the principles of agonistic pluralism, our interface actively engages users with competing visual interpretations of their prompts.</p>",
 			"abstract": "Current image generation paradigms prioritize actualizing user intention - \"see what you intend\" - but often neglect the sociopolitical dimensions of this process. However, it is increasingly evident that image generation is political, contributing to broader social struggles over visual meaning. This sociopolitical aspect was highlighted by the March 2024 Gemini controversy, where Gemini faced criticism for inappropriately injecting demographic diversity into user prompts. Although the developers sought to redress image generation's sociopolitical dimension by introducing diversity \"corrections,\" their opaque imposition of a standard for \"diversity\" ultimately proved counterproductive. In this paper, we present an alternative approach: an image generation interface designed to embrace open negotiation along the sociopolitical dimensions of image creation. Grounded in the principles of agonistic pluralism (from the Greek agon, meaning struggle), our interface actively engages users with competing visual interpretations of their prompts. Through a lab study with 29 participants, we evaluate our agonistic interface on its ability to facilitate reflection - engagement with other perspectives and challenging dominant assumptions - a core principle that underpins agonistic contestation. We compare it to three existing paradigms: a standard interface, a Gemini-style interface that produces \"diverse\" images, and an intention-centric interface suggesting prompt refinements. Our findings demonstrate that the agonistic interface enhances reflection across multiple measures, but also that reflection depends on users perceiving the interface as both appropriate and empowering; introducing diversity without grounding it in relevant political contexts was perceived as inauthentic. Our results suggest that diversity and user intention should not be treated as opposing values to be balanced.",
 			"links": {
 				"pdf_url": "https://arxiv.org/abs/2502.15242"
