@@ -1,6 +1,32 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5e3444cd1a0420862dd58b9aa2386e440b7208e2/images/discord2.png",
+			"title": "\"It's Great Because It's Ran By Us\": Empowering Teen Volunteer Discord Moderators to Design Healthy and Engaging Youth-Led Online Communities",
+			"id": "teen-discord-mods",
+			"author": [
+				{
+					"author_name": "Jina Yoon"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Joseph Seering"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction 9 (2), 1-30",
+			"conference url": "https://cscw.acm.org/2025/",
+			"conference": "CSCW",
+			"year": "2025",
+			"short_abstract": "<p>Online communities can offer many benefits for youth including peer learning, cultural expression, and skill development. In this work, we interviewed 11 teenagers (ages 13-17) who moderate online Discord communities created by youth, for youth.&nbsp;</p>",
+			"abstract": "Online communities can offer many benefits for youth including peer learning, cultural expression, and skill development. However, most HCI research on youth-focused online communities has centered communities developed by adults for youth rather than by the youth themselves. In this work, we interviewed 11 teenagers (ages 13-17) who moderate online Discord communities created by youth, for youth. Participants were identified by Discord platform staff as leaders of well-moderated servers through an intensive exam and application-based process. We also interviewed 2 young adults who volunteered as mentors of some of our teen participants. We present our findings about the benefits, motivations, and risks of teen-led online communities, as well as the role of external stakeholders of these youth spaces. We contextualize our work within the broader teen online safety landscape to provide recommendations to better support, encourage, and protect teen moderators and their online communities. This empirical work contributes one of the first studies to date with teen Discord moderators and aims to empower safe youth-led online communities.",
+			"bibtex": "@article{10.1145/3711114,\nauthor = {Yoon, Jina and Zhang, Amy X. and Seering, Joseph},\ntitle = {\"It's Great Because It's Ran By Us\": Empowering Teen Volunteer Discord Moderators to Design Healthy and Engaging Youth-Led Online Communities},\nyear = {2025},\nissue_date = {May 2025},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {9},\nnumber = {2},\nurl = {https://doi.org/10.1145/3711114},\ndoi = {10.1145/3711114},\nabstract = {Online communities can offer many benefits for youth including peer learning, cultural expression, and skill development. However, most HCI research on youth-focused online communities has centered communities developed by adults for youth rather than by the youth themselves. In this work, we interviewed 11 teenagers (ages 13-17) who moderate online Discord communities created by youth, for youth. Participants were identified by Discord platform staff as leaders of well-moderated servers through an intensive exam and application-based process. We also interviewed 2 young adults who volunteered as mentors of some of our teen participants. We present our findings about the benefits, motivations, and risks of teen-led online communities, as well as the role of external stakeholders of these youth spaces. We contextualize our work within the broader teen online safety landscape to provide recommendations to better support, encourage, and protect teen moderators and their online communities. This empirical work contributes one of the first studies to date with teen Discord moderators and aims to empower safe youth-led online communities.},\njournal = {Proc. ACM Hum.-Comput. Interact.},\nmonth = may,\narticleno = {CSCW121},\nnumpages = {30},\nkeywords = {discord, moderation, moderators, online communities, reddit, safety, teenagers, twitch, youth}\n}",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3711114"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@a05197405cec8690ed83c87af628eca14d493c13/images/yearplot.jpg",
 			"title": "Who Puts the \"Social\" in \"Social Computing\"?: Using A Neurodiversity Framing to Review Social Computing Research",
 			"id": "neurodiversity-social-computing",
@@ -23,7 +49,8 @@
 			"bibtex": "@article{10.1145/3711106,\nauthor = {Baillargeon, Philip and Yoon, Jina and Zhang, Amy},\ntitle = {Who Puts the \"Social\" in \"Social Computing\"?: Using A Neurodiversity Framing to Review Social Computing Research},\nyear = {2025},\nissue_date = {May 2025},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {9},\nnumber = {2},\nurl = {https://doi.org/10.1145/3711106},\ndoi = {10.1145/3711106},\nabstract = {Human-Computer Interaction (HCI) and Computer Supported Collaborative Work (CSCW) have a longstanding tradition of interrogating the values that underlie systems in order to create novel and accessible experiences. In this work, we use a neurodiversity framing to examine how people with ways of thinking, speaking, and being that differ from normative assumptions are perceived by researchers seeking to study and design social computing systems for neurodivergent people. From a critical analysis of 84 publications systematically gathered across a decade of social computing research, we determine that research into social computing with neurodiverse participants is largely medicalized, adheres to historical stereotypes of neurodivergent children and their families, and is insensitive to the wide spectrum of neurodivergent people that are potential users of social technologies. When social computing systems designed for neurodivergent people rely upon a conception of disability that restricts expression for the sake of preserving existing norms surrounding social experience, the result is often simplistic and restrictive systems that prevent users from \"being social\" in a way that feels natural and enjoyable. We argue that a neurodiversity perspective informed by critical disability theory allows us to engage with alternative forms of sociality as meaningful and desirable rather than a deficit to be compensated for. We conclude by identifying opportunities for researchers to collaborate with neurodivergent users and their communities, including the creation of spectrum-conscious social systems and the embedding of double empathy into systems for more equitable design.},\njournal = {Proc. ACM Hum.-Comput. Interact.},\nmonth = may,\narticleno = {CSCW208},\nnumpages = {44},\nkeywords = {accessibility, literature review, neurodiversity}\n}",
 			"links": {
 				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3711106"
-			}
+			},
+			"conference url": "https://cscw.acm.org/2025/"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@249f0f02ea78fc7ffe571a1dac8db5e473444a90/images/principles.jpg",
