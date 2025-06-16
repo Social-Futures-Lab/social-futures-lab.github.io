@@ -1,6 +1,37 @@
 {
 	"paper": [
-    {
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@6017715abf8595dd15775b4bd67f5304f149688e/images/pasted-image-1749836527785.png",
+			"title": "Semantic and Expressive Variation in Image Captions Across Language",
+			"id": "image-captions-across-language",
+			"author": [
+				{
+					"author_name": "Andre Ye"
+				},
+				{
+					"author_name": "Sebastin Santy"
+				},
+				{
+					"author_name": "Jena Hwang"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Ranjay Krishna"
+				}
+			],
+			"conference_full_name": "Proceedings of the Computer Vision and Pattern Recognition Conference",
+			"conference url": "https://cvpr.thecvf.com/",
+			"conference": "CVPR",
+			"year": "2025",
+			"short_abstract": "<p>We study how cultural differences manifest themselves in vision-language datasets and models, using language as a proxy for culture. By comparing textual descriptions generated across 7 languages for the same images, we find significant differences in the semantic content and linguistic expression. When prompted to describe images in different languages, popular models (e.g. LLaVA) inherit this bias and describe different parts of the image.</p>",
+			"abstract": "Computer vision often treats human perception as homogeneous: an implicit assumption that visual stimuli are perceived similarly by everyone. This assumption is reflected in the way researchers collect datasets and train vision models. By contrast, literature in cross-cultural psychology and linguistics has provided evidence that people from different cultural backgrounds observe vastly different concepts even when viewing the same visual stimuli. In this paper, we study how these differences manifest themselves in vision-language datasets and models, using language as a proxy for culture. By comparing textual descriptions generated across 7 languages for the same images, we find significant differences in the semantic content and linguistic expression. When datasets are multilingual as opposed to monolingual, descriptions have higher semantic coverage on average, where coverage is measured using scene graphs, model embeddings, and linguistic taxonomies. For example, multilingual descriptions have on average 29.9% more objects, 24.5% more relations, and 46.0% more attributes than a set of monolingual captions. When prompted to describe images in different languages, popular models (e.g. LLaVA) inherit this bias and describe different parts of the image. Moreover, finetuning models on captions from one language performs best on corresponding test data from that language, while finetuning on multilingual data performs consistently well across all test data compositions. Our work points towards the need to account for and embrace the diversity of human perception in the computer vision community.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2310.14356"
+			}
+		},
+		{
 			"image": "https://social.cs.washington.edu/images/creativeWritingAndAI.png",
 			"title": "From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice",
 			"id": "from-pen-to-prompt-how-creative-writers-integrate-ai-into-their-writing-practice",
@@ -17,7 +48,7 @@
 				{
 					"author_name": "Jeffrey Heer"
 				},
-        {
+				{
 					"author_name": "Amy Zhang"
 				}
 			],
@@ -53,7 +84,6 @@
 					"author_name": "Amy Zhang"
 				}
 			],
-			"conference_full_name": "",
 			"conference": "CHI",
 			"year": "2025",
 			"short_abstract": "<p>To make creating personal classifiers for content curation easier for such users, tools should support rapid initialization and iterative refinement. In this work,&nbsp; we then compare three strategies&mdash;(1) example labeling, (2) rule writing, and (3) large language model (LLM) prompting&mdash;for end users to build personal content classifiers in a lab experiment.&nbsp;</p>",
