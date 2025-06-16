@@ -1,6 +1,40 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@249f0f02ea78fc7ffe571a1dac8db5e473444a90/images/principles.jpg",
+			"title": "African data ethics: A discursive framework for Black decolonial data science",
+			"id": "african-data-ethics",
+			"author": [
+				{
+					"author_name": "Teanna Barrett"
+				},
+				{
+					"author_name": "Chinasa Okolo"
+				},
+				{
+					"author_name": "B Biira"
+				},
+				{
+					"author_name": "Eman Sherif"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Leilani Battle"
+				}
+			],
+			"conference_full_name": "ACM Conference on Fairness, Accountability, and Transparency",
+			"conference url": "https://facctconference.org/",
+			"conference": "FAccT",
+			"year": "2025",
+			"short_abstract": "<p>We present a framework for African data ethics informed by an interdisciplinary corpus of African scholarship. By conducting a thematic analysis of 47 documents, our work leverages concepts of African philosophy to develop a framework with seven major principles.</p>",
+			"abstract": "Most artificial intelligence (AI) and other data-driven systems (DDS) are created by and for the benefit of global superpowers. The shift towards pluralism in global data ethics acknowledges the importance of including perspectives from the Global Majority to develop responsible data science (RDS) practices that mitigate systemic harms inherent to the current data science ecosystem. African practitioners, in particular, are disseminating progressive data ethics principles and best practices for identifying and navigating anti-blackness, colonialism, and data dispossession in the data science life cycle. However, their perspectives continue to be left at the periphery of global data ethics conversations. In an effort to center African voices, we present a framework for African data ethics informed by an interdisciplinary corpus of African scholarship. By conducting a thematic analysis of 47 documents, our work leverages concepts of African philosophy to develop a framework with seven major principles: 1) decolonize & challenge internal power asymmetry, 2) center all communities, 3) uphold universal good, 4) communalism in practice, 5) data self-determination, 6) invest in data institutions & infrastructures and 7) prioritize education & youth. We compare a subset of six particularist data ethics frameworks against ours and find similar coverage but diverging interpretations of shared values. We also discuss two case studies from the African data science community to demonstrate the framework as a tool for evaluating responsible data science decisions. Our framework highlights Africa as a pivotal site for challenging anti-blackness and algorithmic colonialism by promoting the practice of collectivism, self-determination, and cultural preservation in data science.",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2502.16043"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@aa46f3926428f96bd1c8be4cec4f4ca366638a18/images/pasted-image-1749836712838.png",
 			"title": "Agonistic Image Generation: Unsettling the Hegemony of Intention",
 			"id": "agonistic-image-generation",
