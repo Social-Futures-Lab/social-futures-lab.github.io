@@ -1,6 +1,32 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@eed4adc8c5c1fda413eca17df14b81c2d289cfb6/images/policyproto.jpg",
+			"title": "Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Inyoung Cheong"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Bidirectional Human-AI Alignment Workshop",
+			"conference url": "https://iclr.cc/",
+			"conference": "ICLR",
+			"year": "2025",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2409.08622",
+				"website_url": "https://bialign-workshop.github.io/#/"
+			}
+		},
+		{
 			"title": "Envisioning New Futures of Positive Social Technology: Beyond Paradigms of Fixing, Protecting, and Preventing",
 			"author": [
 				{
