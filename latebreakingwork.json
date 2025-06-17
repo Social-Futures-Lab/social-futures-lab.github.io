@@ -1,6 +1,85 @@
 {
 	"paper": [
-    {
+		{
+			"title": "Envisioning New Futures of Positive Social Technology: Beyond Paradigms of Fixing, Protecting, and Preventing",
+			"author": [
+				{
+					"author_name": "JaeWon Kim"
+				},
+				{
+					"author_name": "Lindsay Popowski"
+				},
+				{
+					"author_name": "Anna Fang"
+				},
+				{
+					"author_name": "Cassidy Pyle"
+				},
+				{
+					"author_name": "Guo Freeman"
+				},
+				{
+					"author_name": "Ryan Kelly"
+				},
+				{
+					"author_name": "Angela Lee"
+				},
+				{
+					"author_name": "Fannie Liu"
+				},
+				{
+					"author_name": "Angela Smith"
+				},
+				{
+					"author_name": "Alexandra To"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Positech Workshop",
+			"conference": "CSCW",
+			"year": "2024",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3678884.3681833",
+				"website_url": "https://positech-cscw-2024.github.io/"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@1297bd7a2ca5208b0358391049614ba3b8f137bf/images/chainofalignment.jpg",
+			"title": "Chain of Alignment: Integrating Public Will with Expert Intelligence for Language Model Alignment",
+			"author": [
+				{
+					"author_name": "Andrew Konya"
+				},
+				{
+					"author_name": "Aviv Ovadya"
+				},
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Lisa Schirch "
+				},
+				{
+					"author_name": "Colin Irwin"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Pluralistic Alignment Workshop",
+			"conference url": "https://neurips.cc/Conferences/2024",
+			"conference": "NeurIPS",
+			"year": "2024",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2411.10534"
+			}
+		},
+		{
 			"title": "Community-Driven Models for Research on Social Platforms",
 			"author": [
 				{
@@ -15,28 +94,28 @@
 				{
 					"author_name": "Stevie Chancellor"
 				},
-        {
+				{
 					"author_name": "Eshwar Chandrasekharan"
 				},
-        {
+				{
 					"author_name": "Munmun De Choudhury"
 				},
-        {
+				{
 					"author_name": "Casey Fiesler"
 				},
-        {
+				{
 					"author_name": "Hanlin Li"
 				},
-        {
+				{
 					"author_name": "Nicholas Proferes"
 				},
-        {
+				{
 					"author_name": "Manoel Horta Ribeiro"
 				},
-        {
+				{
 					"author_name": "C. Estelle Smith"
 				},
-        {
+				{
 					"author_name": "Galen Weld"
 				}
 			],
