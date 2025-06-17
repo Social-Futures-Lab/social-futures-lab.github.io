@@ -30,6 +30,55 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@911d083537f10b3030f182dda0b4222e2d81e939/images/caselaw.jpg",
+			"title": "Case Law Grounding: Using Precedents to Align Decision-Making for Humans and AI",
+			"id": "case-law-grounding",
+			"author": [
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM Collective Intelligence",
+			"conference": "CI",
+			"year": "2025",
+			"short_abstract": "<p>In this work, we take inspiration from legal systems and introduce &ldquo;case law grounding&rdquo; (CLG)&mdash;a novel approach for grounding decision-making that uses past cases and decisions (precedents) to ground future decisions in a way that can be utilized by human-led processes or implemented through prompting large language models (LLMs).</p>",
+			"abstract": "Communities and groups often need to make decisions grounded by social norms and preferences, such as when moderating content or providing judgments for aligning AI systems. Prevailing approaches to provide this grounding have primarily centered around constructing high-level guidelines and criteria, similar to legal “constitutions”. However, it can be challenging to specify social norms and preferences consistently and accurately through constitutions alone. In this work, we take inspiration from legal systems and introduce “case law grounding” (CLG)—a novel approach for grounding decision-making that uses past cases and decisions (precedents) to ground future decisions in a way that can be utilized by human-led processes or implemented through prompting large language models (LLMs). We evaluate how accurately CLG grounds decisions with five groups and communities spread across two decision task domains, comparing against a traditional constitutional grounding approach, and find that in 4 out of 5 groups, decisions produced with CLG were significantly more accurately aligned to ground truth: 16.0–23.3 %-points higher accuracy using the human-led process, and 20.8–32.9 %-points higher when prompting LLMs. We also evaluate the impact of different configurations of CLG, such as the case retrieval window size and whether to enforce binding decisions based on selected precedents, showing support for using binding decisions and preferring larger retrieval windows. Finally, we discuss the limitations of our case-based approach as well as how it may be best used to augment existing constitutional approaches when it comes to aligning human and AI decisions.",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2310.07019"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@8b7725a734555e106772051bdddd829d67b2b379/images/spica.jpg",
+			"title": "SPICA: Retrieving Scenarios for Pluralistic In-Context Alignment",
+			"id": "spica-pluralistic-alignment",
+			"author": [
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Chan Young Park"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Association for Computational Linguistics",
+			"conference url": "https://2025.aclweb.org/",
+			"conference": "ACL",
+			"year": "2025",
+			"short_abstract": "<p>We propose SPICA, a framework that accounts for group-level differences during in-context example retrieval. SPICA introduces three designs: scenario banks, group-informed retrieval metrics, and in-context alignment prompts.</p>",
+			"abstract": "When different groups' values differ, one approach to model alignment is to steer models at inference time towards each group's preferences. However, techniques like in-context learning only consider similarity when drawing few-shot examples and not cross-group differences in values. We propose SPICA, a framework that accounts for group-level differences during in-context example retrieval. SPICA introduces three designs: scenario banks, group-informed retrieval metrics, and in-context alignment prompts. From an evaluation of SPICA on an alignment task collecting inputs from four demographic groups (n=544), our metrics retrieve in-context examples that more closely match observed preferences, with the best prompt configuration using multiple contrastive responses to demonstrate examples. In an end-to-end evaluation (n=120), we observe that SPICA is higher rated than similarity-based retrieval, with groups seeing up to a +0.16 point improvement on a 5 point scale. Additionally, gains from SPICA were more uniform, with all groups benefiting from alignment rather than only some. Finally, we find that while a group-agnostic approach can align to aggregated values, it is not most suited for divergent groups.",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2411.10912"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5878b82eb5cfce80b3a33b9f36ac53b317fc3198/images/subreddit.jpg",
 			"title": "Perceptions of Moderators as a Large-Scale Measure of Online Community Governance",
 			"id": "perceptions-of-moderators",
