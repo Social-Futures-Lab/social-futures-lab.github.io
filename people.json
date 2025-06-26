@@ -593,6 +593,16 @@
 			},
 			"@type": "Person",
 			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@12c65a2b44e27a99f3fbeab66ae6c3c6bdf1b130/images/1727720543071.jpeg",
+			"name": "Leon Liebmann",
+			"jobTitle": "undergrad",
+			"alum": true,
+			"links": {
+				"website_url": "https://www.linkedin.com/in/leon-leibmann-3a70131a3/"
+			},
+			"@type": "Person"
 		}
 	]
 }
