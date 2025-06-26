@@ -1,6 +1,49 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@7448203fa02c1a5cc290fda4a0731337ca70b029/images/raters.jpg",
+			"title": "Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing",
+			"author": [
+				{
+					"author_name": "Inyoung Cheong"
+				},
+				{
+					"author_name": "Alicia Guo"
+				},
+				{
+					"author_name": "Mina Lee"
+				},
+				{
+					"author_name": "Kowe Kadoma"
+				},
+				{
+					"author_name": "Simona Liao"
+				},
+				{
+					"author_name": "Dongyoung Go"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				},
+				{
+					"author_name": "Peter Henderson"
+				},
+				{
+					"author_name": "Mor Naaman"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "AI Disclosure Workshop",
+			"conference url": "https://chiwork-aidisclosure.github.io/program/",
+			"conference": "CHIWORK",
+			"year": "2025",
+			"links": {
+				"pdf_url": "https://drive.google.com/file/d/1ox3LL3sEufM7TUryfsfAWGNHMlQstyVE/view"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@eed4adc8c5c1fda413eca17df14b81c2d289cfb6/images/policyproto.jpg",
 			"title": "Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking",
 			"author": [
