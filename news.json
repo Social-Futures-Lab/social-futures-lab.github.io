@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@67d0bdf43033fc341c6f613c611a9d3b7fd820ed/images/best_paper.jpeg",
+			"title": "Leon and Galen win Best Paper Award at ICWSM 2025!",
+			"date": "June 2025",
+			"description": "A research project led by Leon Liebmann, an undergraduate researcher at UW, Galen Weld, and Tim Althoff won best paper at ICWSM! This work, a large-scale analysis of community rules on Reddit and their association with perceptions of moderation, was chosen as the sole best paper award out of 138 papers at the conference.&nbsp;",
+			"link": {
+				"link_url": "https://arxiv.org/abs/2501.14163",
+				"link_text": "Link to paper"
+			}
+		},
+		{
 			"image": "https://assets.amazon.science/07/d9/d204ca2242bea8215dbf9ca5c43e/amazon-science-logo.svg",
 			"title": "We received a grant from Amazon to build tools for AI agent governance",
 			"date": "June 2025",
