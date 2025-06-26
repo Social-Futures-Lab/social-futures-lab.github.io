@@ -44,6 +44,45 @@
 			}
 		},
 		{
+			"title": "Sociotechnical AI Governance: Challenges and Opportunities for HCI",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Rock Pang"
+				},
+				{
+					"author_name": "Tzu-Sheng Kuo"
+				},
+				{
+					"author_name": "Amy Winecoff"
+				},
+				{
+					"author_name": "Emily Tseng"
+				},
+				{
+					"author_name": "David Widder"
+				},
+				{
+					"author_name": "Harini Suresh"
+				},
+				{
+					"author_name": "Katharina Reinecke"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Sociotechnical AI Governance Workshop",
+			"conference url": "https://chi-staig.github.io/",
+			"conference": "CHI",
+			"year": "2025",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~ypang2/papers/chi-staig-workshop.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@eed4adc8c5c1fda413eca17df14b81c2d289cfb6/images/policyproto.jpg",
 			"title": "Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking",
 			"author": [
