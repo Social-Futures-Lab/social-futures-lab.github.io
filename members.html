@@ -100,6 +100,10 @@
 
 									<span class="hide-on-read">Alumni?: <input property="alum" type="checkbox" /><BR></span>
 
+                  <span class="[if(!alum, hideauthor)]">
+                    <span property="current">Current Position</span><BR>
+                  </span>
+
 									<span class="[if(alum, hideauthor)]">
 										<span property="bio" class="tinymce">Bio</span><BR>
 
