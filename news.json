@@ -20,6 +20,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@10bfdc7554f10dffd87d108f9ea53c9595f13f66/images/cnc.jpg",
+			"title": "Alicia presents a paper on writers' workflows with AI at Creativity & Cognition 2025",
+			"date": "June 2025",
+			"description": "Alicia remotely presented the paper \"From pen to prompt: How creative writers integrate AI into their writing practice\" at the ACM Conference on Creativity &amp; Cognition.",
+			"link": {
+				"link_url": "https://dl.acm.org/doi/full/10.1145/3698061.3726910",
+				"link_text": "Paper"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@0ec4d553d447dc9094543099e7f275c8f54ee421/images/service.jpg",
 			"title": "Andre and Kianna wins the Outstanding Student Award, and Kianna wins the Service Award at UW CSE graduation",
 			"date": "June 2025",
