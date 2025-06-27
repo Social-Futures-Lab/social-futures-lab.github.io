@@ -2,7 +2,7 @@
 	"news_item": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@67d0bdf43033fc341c6f613c611a9d3b7fd820ed/images/best_paper.jpeg",
-			"title": "Leon and Galen win Best Paper Award at ICWSM 2025!",
+			"title": "Leon and Galen win Best Paper Award at ICWSM 2025",
 			"date": "June 2025",
 			"description": "A research project led by Leon Liebmann, an undergraduate researcher at UW, Galen Weld, and Tim Althoff won best paper at ICWSM! This work, a large-scale analysis of community rules on Reddit and their association with perceptions of moderation, was chosen as the sole best paper award out of 138 papers at the conference.",
 			"link": {
@@ -17,6 +17,36 @@
 			"link": {
 				"link_url": "https://facctconference.org/",
 				"link_text": "Conference website"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@0ec4d553d447dc9094543099e7f275c8f54ee421/images/service.jpg",
+			"title": "Andre and Kianna wins the Outstanding Student Award, and Kianna wins the Service Award at UW CSE graduation",
+			"date": "June 2025",
+			"description": "At UW CSE's 2025 graduation, Andre and Kianna both won the Outstanding CSE Student Award and Kianna won the UW CSE Service Award. Kianna also presented the Undergraduate Teaching Awards as the chair of COM^2.",
+			"link": {
+				"link_url": "https://www.cs.washington.edu/news-events/graduation-celebration/",
+				"link_text": "Graduation page"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@a97cef0d2d7f283d5945c94f9d6c901245b05fb3/images/andrew.jpg",
+			"title": "Andrew wins the UW CSE Undergraduate Thesis Award",
+			"date": "June 2025",
+			"description": "Andrew won the UW CSE undergraduate thesis award for his accepted FAccT paper in collaboration with Andre Ye on \"Unsettling the Hegemony of Intention\".&nbsp;",
+			"link": {
+				"link_url": "https://arxiv.org/abs/2502.15242",
+				"link_text": "Paper pdf"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@703d1fd6f3f04dec019bb909c082dc2bf96597ea/images/andre2.jpg",
+			"title": "Andre is awarded the UW Dean's Medal and profiled by UW",
+			"date": "June 2025",
+			"description": "Andre was profiled by UW in an article called \"<a href=\"https://www.washington.edu/uaa/undergrad-researcher-questions-the-ai-answer/\">Undergrad questions the AI answer</a>\". At UW Commencement, Andre won the UW College of Arts and Sciences Dean&rsquo;s Medal (for the Social Sciences) and was also selected to be Gonfalonier (Banner Carrier) for the College of Arts and Sciences. Andre will be attending MIT CSAIL in the fall.",
+			"link": {
+				"link_url": "https://www.washington.edu/uaa/undergrad-researcher-questions-the-ai-answer/",
+				"link_text": "UW article"
 			}
 		},
 		{
@@ -37,6 +67,16 @@
 			"link": {
 				"link_url": "https://chi2025.acm.org/",
 				"link_text": "CHI website"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@d85a3aaf72fe2f4ec6fe3fc8c1edca377fe227fb/images/1000004123.jpg",
+			"title": "Kevin's paper at the BiAlign ICLR workshop was chosen for an oral presentation",
+			"date": "April 2025",
+			"description": "Kevin's accepted workshop paper at the <a href=\"https://bialign-workshop.github.io/#/papers\">Bidirectional Human-AI Alignment workshop</a> at ICLR 2025 was chosen as one of two oral paper presentations at the concurrent CHI SIG.",
+			"link": {
+				"link_url": "https://arxiv.org/abs/2409.08622",
+				"link_text": "Paper pdf"
 			}
 		},
 		{
