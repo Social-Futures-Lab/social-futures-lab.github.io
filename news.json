@@ -1,16 +1,6 @@
 {
 	"news_item": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@cd389bd4e3ecb94bad868c3af9816faf0df1572e/images/IMG_7865.jpg",
-			"title": "SFL presents 4 papers, 1 workshop paper at a SIG, and co-organized a workshop at ACM CHI",
-			"date": "April 2025",
-			"description": "We had four papers presented at CHI in Yokohama, Japan, covering the topics of Social-RAG presented by Ruotong, Canvil presented by Kevin, end user authoring of personalized content classifiers presented by Leijie. The fourth project PolicyCraft was a collaborative project led by CMU, with Jim and Amy as co-authors.",
-			"link": {
-				"link_url": "https://chi2025.acm.org/",
-				"link_text": "CHI website"
-			}
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@67d0bdf43033fc341c6f613c611a9d3b7fd820ed/images/best_paper.jpeg",
 			"title": "Leon and Galen win Best Paper Award at ICWSM 2025!",
 			"date": "June 2025",
@@ -37,6 +27,16 @@
 			"link": {
 				"link_url": "https://www.amazon.science/research-awards/program-updates/70-amazon-research-award-recipients-announced",
 				"link_text": "Award announcement"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@cd389bd4e3ecb94bad868c3af9816faf0df1572e/images/IMG_7865.jpg",
+			"title": "SFL presented 4 papers and co-organized a workshop at ACM CHI",
+			"date": "April 2025",
+			"description": "We had four papers presented at CHI in Yokohama, Japan, covering the topics of Social-RAG presented by Ruotong, Canvil presented by Kevin, end user authoring of personalized content classifiers presented by Leijie. The fourth project PolicyCraft was a collaborative project led by CMU, with Jim and Amy as co-authors. Kevin and Amy also co-organized a workshop on \"Sociotechnical AI Governance: Challenges and Opportunities for HCI\".",
+			"link": {
+				"link_url": "https://chi2025.acm.org/",
+				"link_text": "CHI website"
 			}
 		},
 		{
