@@ -210,6 +210,89 @@
 			"alum": true,
 			"current": "Rutgers SC&I faculty"
 		},
+    		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@c7e6b06e727b308257d6704130fb207629bebce7/images/nick2.jpg",
+			"name": "Nick Vincent",
+			"jobTitle": "postdoc",
+			"bio": "Nick is a Postdoctoral Scholar working with the Social Futures Lab at UW and the Computational Communication Lab at UC Davis. His research aims to give the public more voice in determing how the AI systems we all contribute data to are used.&nbsp;",
+			"links": {
+				"website_url": "https://www.nickmvincent.com/",
+				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
+				"github_url": "https://github.com/nickmvincent",
+				"twitter_url": "https://twitter.com/nickmvincent",
+				"email": "nvince@cs.washington.edu"
+			},
+			"@type": "Person",
+			"alum": true,
+			"current": "Simon Fraser faculty"
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
+			"name": "Jina Yoon",
+			"jobTitle": "phd",
+			"bio": "Jina Yoon is a PhD student of Computer Science at the University of Washington. Her current research interests are in fostering empathetic conversation, combating misinformation, and leveraging addictive design for good. She also really likes to play video games.",
+			"links": {
+				"website_url": "https://jinayoon.com",
+				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wU19euwAAAAJ",
+				"github_url": "https://github.com/jinayoon",
+				"twitter_url": "https://twitter.com/jinayoon_",
+				"email": "jyoon963@cs.washington.edu"
+			},
+			"@type": "Person",
+			"alum": true,
+      "current": "Statsig"
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
+			"name": "Inyoung Cheong",
+			"jobTitle": "phd",
+			"alum": true,
+			"bio": "Inyoung Cheong is a PhD student of Law at the University of Washington. Her research explores AI policy, governance, and regulatory approaches to mitigate foreseeable societal harms and developing interventions that promote accountability.",
+			"links": {
+				"website_url": "https://inyoungcheong.github.io",
+				"github_url": "https://github.com/inyoungcheong",
+				"twitter_url": "https://twitter.com/inyoungcheong"
+			},
+			"@type": "Person",
+			"current": "Princeton CITP postdoc"
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@e3e4646243b5fce4e4cb128f1904aa81fc388ef9/images/Simona%20(1).jpg",
+			"name": "Simona Liao ",
+			"jobTitle": "masters",
+			"bio": "Simona Liao (she/they) is an undergraduate student at the University of Washington studying computer science and GWSS (Gender, Women, and Sexuality Studies). She is interested in Virtual Reality platforms and communities, and how to design them against harassments.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/simonaliao/?locale=en_US",
+				"github_url": "https://github.com/SimonaLiao"
+			},
+			"@type": "Person",
+			"alum": true,
+      "current": "Microsoft"
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
+			"name": "Tony Li",
+			"jobTitle": "masters",
+			"bio": "Tony (he/him) is a master's student in the HCDE department at the UW. He is also the president of the HCDE Graduate Student Association. WIth industry experience in data engineering, Tony is interested in human-AI interaction and the intersection of data and HCI.",
+			"links": {
+				"website_url": "https://tonyli1.github.io/",
+				"github_url": "https://github.com/tonyli1"
+			},
+			"@type": "Person",
+			"alum": true,
+      "current": "UCSD PhD"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fe3a35759a4bd67aba01a50c506e3e7e0e59d5e7/images/savanna.jpg",
+			"name": "Savanna Yee",
+			"jobTitle": "masters",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/savanna-yee/"
+			},
+			"@type": "Person",
+			"alum": true,
+			"current": "Promise"
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
 			"name": "Ge Zhang",
@@ -242,17 +325,6 @@
 			},
 			"alum": true,
 			"current": "Skipflow co-founder"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fe3a35759a4bd67aba01a50c506e3e7e0e59d5e7/images/savanna.jpg",
-			"name": "Savanna Yee",
-			"jobTitle": "masters",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/savanna-yee/"
-			},
-			"@type": "Person",
-			"alum": true,
-			"current": "Promise"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1eeb9e3b7a52d24b3059c7303ad8d17766c2c0c6/images/IMG_5145.jpg",
@@ -346,34 +418,6 @@
 			"alum": true
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@c7e6b06e727b308257d6704130fb207629bebce7/images/nick2.jpg",
-			"name": "Nick Vincent",
-			"jobTitle": "postdoc",
-			"bio": "Nick is a Postdoctoral Scholar working with the Social Futures Lab at UW and the Computational Communication Lab at UC Davis. His research aims to give the public more voice in determing how the AI systems we all contribute data to are used.&nbsp;",
-			"links": {
-				"website_url": "https://www.nickmvincent.com/",
-				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
-				"github_url": "https://github.com/nickmvincent",
-				"twitter_url": "https://twitter.com/nickmvincent",
-				"email": "nvince@cs.washington.edu"
-			},
-			"@type": "Person",
-			"alum": true,
-			"current": "Simon Fraser faculty"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@e3e4646243b5fce4e4cb128f1904aa81fc388ef9/images/Simona%20(1).jpg",
-			"name": "Simona Liao ",
-			"jobTitle": "masters",
-			"bio": "Simona Liao (she/they) is an undergraduate student at the University of Washington studying computer science and GWSS (Gender, Women, and Sexuality Studies). She is interested in Virtual Reality platforms and communities, and how to design them against harassments.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/simonaliao/?locale=en_US",
-				"github_url": "https://github.com/SimonaLiao"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
 			"name": "Anson Huang",
 			"jobTitle": "undergrad",
 			"bio": "Anson Huang is an undergraduate student at the University of Washington studying computer science and political science. His research interests are in the intersection of civics and tech.",
@@ -440,20 +484,6 @@
 			},
 			"@type": "Person",
 			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
-			"name": "Inyoung Cheong",
-			"jobTitle": "phd",
-			"alum": true,
-			"bio": "Inyoung Cheong is a PhD student of Law at the University of Washington. Her research explores AI policy, governance, and regulatory approaches to mitigate foreseeable societal harms and developing interventions that promote accountability.",
-			"links": {
-				"website_url": "https://inyoungcheong.github.io",
-				"github_url": "https://github.com/inyoungcheong",
-				"twitter_url": "https://twitter.com/inyoungcheong"
-			},
-			"@type": "Person",
-			"current": "Princeton CITP postdoc"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2c705ad655a27a0f646965050878edd375993dc7/images/kianna_s_picture.jpeg",
@@ -540,21 +570,6 @@
 			"alum": true
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
-			"name": "Jina Yoon",
-			"jobTitle": "phd",
-			"bio": "Jina Yoon is a PhD student of Computer Science at the University of Washington. Her current research interests are in fostering empathetic conversation, combating misinformation, and leveraging addictive design for good. She also really likes to play video games.",
-			"links": {
-				"website_url": "https://jinayoon.com",
-				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wU19euwAAAAJ",
-				"github_url": "https://github.com/jinayoon",
-				"twitter_url": "https://twitter.com/jinayoon_",
-				"email": "jyoon963@cs.washington.edu"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
 			"name": "Peipei Nie",
 			"jobTitle": "visiting",
@@ -575,18 +590,6 @@
 			"bio": "Sydney Kuhl is an undergraduate student at the University of Washington studying computer science. Her research interests are in machine learning, natural language processing, and online misinformation.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/sydneykuhl/"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
-			"name": "Tony Li",
-			"jobTitle": "masters",
-			"bio": "Tony (he/him) is a master's student in the HCDE department at the UW. He is also the president of the HCDE Graduate Student Association. WIth industry experience in data engineering, Tony is interested in human-AI interaction and the intersection of data and HCI.",
-			"links": {
-				"website_url": "https://tonyli1.github.io/",
-				"github_url": "https://github.com/tonyli1"
 			},
 			"@type": "Person",
 			"alum": true
