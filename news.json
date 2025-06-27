@@ -1,22 +1,32 @@
 {
 	"news_item": [
 		{
-			"title": "Teanna, Andrew, and Andre present two papers at FAccT",
-			"date": "June 2025",
-			"description": "Teanna presented a paper on \"<a href=\"https://arxiv.org/abs/2502.16043\">African Data Ethics: A Discursive Framework for Black Decolonial Data Science</a>\" and Andrew and Andre presented a paper on \"<a href=\"https://arxiv.org/abs/2502.15242\">Unsettling the Hegemony of Intention: Agonistic Image Generation</a>\" in Athens, Greece.",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@cd389bd4e3ecb94bad868c3af9816faf0df1572e/images/IMG_7865.jpg",
+			"title": "SFL presents 4 papers, 1 workshop paper at a SIG, and co-organized a workshop at ACM CHI",
+			"date": "April 2025",
+			"description": "We had four papers presented at CHI in Yokohama, Japan, covering the topics of Social-RAG presented by Ruotong, Canvil presented by Kevin, end user authoring of personalized content classifiers presented by Leijie. The fourth project PolicyCraft was a collaborative project led by CMU, with Jim and Amy as co-authors.",
 			"link": {
-				"link_url": "https://facctconference.org/",
-				"link_text": "Conference website"
+				"link_url": "https://chi2025.acm.org/",
+				"link_text": "CHI website"
 			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@67d0bdf43033fc341c6f613c611a9d3b7fd820ed/images/best_paper.jpeg",
 			"title": "Leon and Galen win Best Paper Award at ICWSM 2025!",
 			"date": "June 2025",
-			"description": "A research project led by Leon Liebmann, an undergraduate researcher at UW, Galen Weld, and Tim Althoff won best paper at ICWSM! This work, a large-scale analysis of community rules on Reddit and their association with perceptions of moderation, was chosen as the sole best paper award out of 138 papers at the conference.&nbsp;",
+			"description": "A research project led by Leon Liebmann, an undergraduate researcher at UW, Galen Weld, and Tim Althoff won best paper at ICWSM! This work, a large-scale analysis of community rules on Reddit and their association with perceptions of moderation, was chosen as the sole best paper award out of 138 papers at the conference.",
 			"link": {
 				"link_url": "https://arxiv.org/abs/2501.14163",
 				"link_text": "Link to paper"
+			}
+		},
+		{
+			"title": "Teanna, Andrew, and Andre present two papers at FAccT",
+			"date": "June 2025",
+			"description": "Teanna presented a paper on \"<a href=\"https://arxiv.org/abs/2502.16043\">African Data Ethics: A Discursive Framework for Black Decolonial Data Science</a>\" and Andrew and Andre presented a paper on \"<a href=\"https://arxiv.org/abs/2502.15242\">Unsettling the Hegemony of Intention: Agonistic Image Generation</a>\" in Athens, Greece.",
+			"link": {
+				"link_url": "https://facctconference.org/",
+				"link_text": "Conference website"
 			}
 		},
 		{
