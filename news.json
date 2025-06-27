@@ -1,6 +1,15 @@
 {
 	"news_item": [
 		{
+			"title": "Teanna, Andrew, and Andre present two papers at FAccT",
+			"date": "June 2025",
+			"description": "Teanna presented a paper on \"<a href=\"https://arxiv.org/abs/2502.16043\">African Data Ethics: A Discursive Framework for Black Decolonial Data Science</a>\" and Andrew and Andre presented a paper on \"<a href=\"https://arxiv.org/abs/2502.15242\">Unsettling the Hegemony of Intention: Agonistic Image Generation</a>\" in Athens, Greece.",
+			"link": {
+				"link_url": "https://facctconference.org/",
+				"link_text": "Conference website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@67d0bdf43033fc341c6f613c611a9d3b7fd820ed/images/best_paper.jpeg",
 			"title": "Leon and Galen win Best Paper Award at ICWSM 2025!",
 			"date": "June 2025",
