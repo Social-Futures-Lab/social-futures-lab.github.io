@@ -346,7 +346,7 @@
 			"alum": true
 		},
 		{
-			"image": "https://www.nickmvincent.com/static/Headshots-916_Small.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@c7e6b06e727b308257d6704130fb207629bebce7/images/nick2.jpg",
 			"name": "Nick Vincent",
 			"jobTitle": "postdoc",
 			"bio": "Nick is a Postdoctoral Scholar working with the Social Futures Lab at UW and the Computational Communication Lab at UC Davis. His research aims to give the public more voice in determing how the AI systems we all contribute data to are used.&nbsp;",
@@ -358,7 +358,8 @@
 				"email": "nvince@cs.washington.edu"
 			},
 			"@type": "Person",
-			"alum": true
+			"alum": true,
+			"current": "Simon Fraser faculty"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@e3e4646243b5fce4e4cb128f1904aa81fc388ef9/images/Simona%20(1).jpg",
@@ -397,7 +398,7 @@
 			"alum": true
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@57eb8e8fab4c4f4a9fa93cc8788c161deee7fe2a/images/Image%20from%20iOS.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@b582589e4927aefa23392a50c7f49dcd883855c4/images/anisa.jpg",
 			"name": "Anisa Callis",
 			"jobTitle": "intern",
 			"bio": "Anisa is a rising 4th year at Penn State University in State College, PA studying Human Centered Design and Development. She has done research on visually impaired peoples&rsquo; interactions with TikTok, and also groups and their interactions with AI towards better decision-making.",
@@ -430,7 +431,7 @@
 			"alum": true
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@edf5b594571632c48ecd51e64e63492c65e641c3/images/Khushi%20Khandelwal.jpeg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@1c6586a0c383bb40c4a325d9f68a03fd663cd9d4/images/kushi.jpg",
 			"name": "Khushi Khandelwal ",
 			"jobTitle": "undergrad",
 			"bio": "Khushi Khandelwal is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, online misinformation, and artificial intelligence.",
@@ -451,7 +452,8 @@
 				"github_url": "https://github.com/inyoungcheong",
 				"twitter_url": "https://twitter.com/inyoungcheong"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"current": "Princeton CITP postdoc"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2c705ad655a27a0f646965050878edd375993dc7/images/kianna_s_picture.jpeg",
@@ -477,7 +479,7 @@
 			"alum": true
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c6ba0522d070469925a8c1ff7cd1aa73beb0e810/images/IMG_4618.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@1097b0a6a13c1d265e47acffc70347df494893bf/images/photo.jpg",
 			"name": "Pranati Dani",
 			"jobTitle": "undergrad",
 			"bio": "Pranati is an undergraduate student at UW studying Computer Science and minoring in Business Administration. She is extremely interested in the connection between communication and education with computing, and is working on the bridge between asynchronous and synchronous communication.",
