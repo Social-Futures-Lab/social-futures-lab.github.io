@@ -31,6 +31,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@66930934028dc16d7e1c5c4e9ad1736b4ed9c505/images/pasted-image-1749836527785.png",
+			"title": "Andre presents paper on language variations in image captions at CVPR",
+			"date": "June 2025",
+			"description": "Andre presents his paper on \"Semantic and Expressive Variations in Image Captions Across Languages\" at CVPR in Nashville.",
+			"link": {
+				"link_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ye_Semantic_and_Expressive_Variations_in_Image_Captions_Across_Languages_CVPR_2025_paper.pdf",
+				"link_text": "Paper"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@0ec4d553d447dc9094543099e7f275c8f54ee421/images/service.jpg",
 			"title": "Andre and Kianna wins the Outstanding Student Award, and Kianna wins the Service Award at UW CSE graduation",
 			"date": "June 2025",
