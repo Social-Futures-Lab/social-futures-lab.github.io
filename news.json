@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@0c7d82083412c2e8491c923675e958350e8f685b/images/CHI-Research-Award_500x500.jpg",
+			"title": "We won a grant from UW's Civic Health Initiative",
+			"date": "June 2025",
+			"description": "We won a grant for a project titled \"Lowering Barriers of Civic Participation Through Facilitating Reflection\". The work will be led by Sam Wong, with Ruotong Wang and Leijie Wang as collaborators.",
+			"link": {
+				"link_url": "https://civichealth.uw.edu/2025/06/initiative-awards-five-research-grants-to-teams-of-uw-faculty-members/",
+				"link_text": "Grant announcement"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@67d0bdf43033fc341c6f613c611a9d3b7fd820ed/images/best_paper.jpeg",
 			"title": "Leon and Galen win Best Paper Award at ICWSM 2025",
 			"date": "June 2025",
