@@ -30,6 +30,64 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@326e837c4db33e27a34681573b6bdfec53047cdb/images/flow.jpg",
+			"title": "Position: Democratic AI is Possible. The Democracy Levels Framework Shows How It Might Work.",
+			"id": "democracy-levels",
+			"author": [
+				{
+					"author_name": "Aviv Ovadya"
+				},
+				{
+					"author_name": "Kyle Redman"
+				},
+				{
+					"author_name": "Luke Thorburn"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Oliver Smith"
+				},
+				{
+					"author_name": "Flynn Devine"
+				},
+				{
+					"author_name": "Andrew Konya"
+				},
+				{
+					"author_name": "Smitha Milli"
+				},
+				{
+					"author_name": "Manon Revel"
+				},
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Bilva Chandra"
+				},
+				{
+					"author_name": "Michiel Bakker"
+				},
+				{
+					"author_name": "Atoosa Kasirzadeh"
+				}
+			],
+			"conference_full_name": "International Conference on Machine Learning",
+			"conference url": "https://icml.cc/",
+			"conference": "ICML Position Paper",
+			"year": "2025",
+			"short_abstract": "<p>This position paper argues that effectively \"democratizing AI\" requires democratic governance and alignment of AI. To more concretely explore what increasingly democratic AI might look like, we provide a \"Democracy Levels\" framework and associated tools.</p>",
+			"abstract": "Description This position paper argues that effectively \"democratizing AI\" requires democratic governance and alignment of AI, and that this is particularly valuable for decisions with systemic societal impacts. Initial steps—such as Meta's *Community Forums* and Anthropic's *Collective Constitutional AI*—have illustrated a promising direction, where democratic processes could be used to meaningfully improve public involvement and trust in critical decisions. To more concretely explore what increasingly democratic AI might look like, we provide a \"Democracy Levels\" framework and associated tools that: (i) define milestones toward meaningfully democratic AI—which is also crucial for substantively pluralistic, human-centered, participatory, and public-interest AI, (ii) can help guide organizations seeking to increase the legitimacy of their decisions on difficult AI governance and alignment questions, and (iii) support the evaluation of such efforts.",
+			"links": {
+				"pdf_url": "https://openreview.net/pdf?id=yYJo8czj4f"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@911d083537f10b3030f182dda0b4222e2d81e939/images/caselaw.jpg",
 			"title": "Case Law Grounding: Using Precedents to Align Decision-Making for Humans and AI",
 			"id": "case-law-grounding",
