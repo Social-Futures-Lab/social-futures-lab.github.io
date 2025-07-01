@@ -11,7 +11,7 @@
 			}
 		},
 		{
-			"title": "Teanna, Andrew, and Andre present two papers at FAccT",
+			"title": "Teanna, Andrew, and Andre present two papers at FAccT 2025",
 			"date": "June 2025",
 			"description": "Teanna presented a paper on \"<a href=\"https://arxiv.org/abs/2502.16043\">African Data Ethics: A Discursive Framework for Black Decolonial Data Science</a>\" and Andrew and Andre presented a paper on \"<a href=\"https://arxiv.org/abs/2502.15242\">Unsettling the Hegemony of Intention: Agonistic Image Generation</a>\" in Athens, Greece.",
 			"link": {
@@ -32,7 +32,7 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@66930934028dc16d7e1c5c4e9ad1736b4ed9c505/images/pasted-image-1749836527785.png",
-			"title": "Andre presents paper on language variations in image captions at CVPR",
+			"title": "Andre presents paper on language variations in image captions at CVPR 2025",
 			"date": "June 2025",
 			"description": "Andre presents his paper on \"Semantic and Expressive Variations in Image Captions Across Languages\" at CVPR in Nashville.",
 			"link": {
@@ -163,6 +163,16 @@
 				"link_text": "Finalists anouncement"
 			},
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8a8719b9dbad64edd443ab3e8d11de31fecc5e43/images/hertz-foundation-logo-1200x630-1-1956906485.jpg"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@e44de6a0ccd57836a7c5de5aa38328b498f79322/images/group.jpg",
+			"title": "Jina presents paper on misinformation response communities at GROUP 2025",
+			"date": "Jan 2025",
+			"description": "Jina presented work in collaboration with Discourse Labs and the ARTT project looking at communities for people who respond to misinformation. The paper is titled \"The Collaborative Practices and Motivations of Online Communities Dedicated to Voluntary Misinformation Response\".",
+			"link": {
+				"link_url": "https://dl.acm.org/doi/abs/10.1145/3701209",
+				"link_text": "Paper"
+			}
 		},
 		{
 			"title": "Xinyi is a Rising Star in EECS and Data Science",
