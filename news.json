@@ -17,7 +17,8 @@
 			"link": {
 				"link_url": "https://facctconference.org/",
 				"link_text": "Conference website"
-			}
+			},
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@b717845c34be9f105c36af439ceea8a58b132ef5/images/d7b8c584-5e0e-4e42-ac77-465afa223bed.jpg"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@10bfdc7554f10dffd87d108f9ea53c9595f13f66/images/cnc.jpg",
@@ -60,6 +61,13 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@a25132d422181cac9d551548c5cc7efc7a0b1c88/images/92661360-4CB8-4549-866A-F7AA03E42C5D.jpg",
+			"title": "Farewell to Xinyi who is joining Boise State, and congrats to new grads at SFL's end-of-year BBQ",
+			"date": "June 2025",
+			"description": "Xinyi will be headed to Boise State University as an assistant professor of Computer Science this fall. We also congratulated a number of new graduates: Sam, Shreya, Lin, Andrew, Andre, and Galen.",
+			"link": {}
+		},
+		{
 			"image": "https://assets.amazon.science/07/d9/d204ca2242bea8215dbf9ca5c43e/amazon-science-logo.svg",
 			"title": "We received a grant from Amazon to build tools for AI agent governance",
 			"date": "June 2025",
@@ -98,6 +106,13 @@
 				"link_url": "https://pdsoros.org/fellows/andre-ye/",
 				"link_text": "Announcement"
 			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5e1cd3948a83795be796d883bfb096a08737a818/images/20250309_200601.jpg",
+			"title": "Farewell dinner for Jim, who is leaving for AI & Democracy Foundation",
+			"date": "March 2025",
+			"description": "Jim is leaving SFL after his two year postdoc to join the AI &amp; Democracy Foundation as a research scientist!",
+			"link": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5a7a33950eebc572b416df277765b61d4e3836da/images/Sloan%20Research%20Fellow%202025%20hero%20slider.png",
