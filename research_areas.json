@@ -131,7 +131,7 @@
 		},
 		{
 			"title": "Public Interest and Deliberative Tech",
-			"description": "<span style=\"font-size: 14px;\">A healthy public sphere depends on the efforts of people working in the public interest---from journalists, to Wikipedia editors, to researchers, to public communicators. We build tools to support people in these roles and technology to strengthen and improve the work of traditional public institutions.</span>",
+			"description": "<span style=\"font-size: 14px;\">A healthy public sphere depends on the efforts of people working in the public interest---from journalists, to online volunteers, to researchers, to public communicators. We build tools to support people in these roles and technology to strengthen and improve the work of traditional public institutions.</span>",
 			"project": [
 				{
 					"project_url": "https://social.cs.washington.edu/pub_details.html?id=online-communities-voluntary-misinfo-response",
@@ -155,7 +155,7 @@
 		},
 		{
 			"title": "Tools for Thought and Creativity",
-			"description": "<span style=\"font-size: 14px;\">We design new software tools and human-AI hybrid systems to support group collaboration and creative work.</span>",
+			"description": "<span style=\"font-size: 14px;\">We design new software tools and human-AI systems to support group collaboration, critical thinking and reflection, and creative work.</span>",
 			"project": [
 				{
 					"project_url": "https://arxiv.org/abs/2401.09051",
