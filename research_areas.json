@@ -2,7 +2,7 @@
 	"area": [
 		{
 			"title": "Foundations of New Sociotechnical Systems",
-			"description": "<span style=\"font-size: 14px;\">Over the decades, social media platforms have come and gone, but all share some fundamental building blocks. We examine these patterns to rethink how digital spaces function. By altering their underlying &ldquo;physics,&rdquo; we can unlock new ways for people to communicate and share.</span>",
+			"description": "<span style=\"font-size: 14px;\">Over the decades, social media platforms have come and gone, but all share some fundamental building blocks. We examine these patterns to rethink how digital spaces function. By altering their underlying &ldquo;physics,&rdquo; we can unlock new ways for people to&nbsp;</span><span style=\"font-size: 14px;\">communicate and share.</span>",
 			"author2": [
 				{
 					"author_name2": "Ruotong Wang"
@@ -49,7 +49,7 @@
 		},
 		{
 			"title": "Participatory Governance",
-			"description": "<span style=\"font-size: 14px;\">Most online platforms, online communities, and collectively-used AI systems are governed in a top-down manner. But in the offline world, alternative governance structures abound, including more participatory ones. Drawing from offline institutional design, we build tools and workflows to enable participatory governance of digital institutions.</span>",
+			"description": "<span style=\"font-size: 14px;\">Most online platforms, online communities, and AI systems are governed in a top-down manner. But in the offline world, alternative governance structures abound, including more participatory ones. Drawing from offline institutional design, we build tools and workflows to enable participatory governance of digital institutions.</span>",
 			"project": [
 				{
 					"project_url": "http://policykit.org/",
@@ -67,13 +67,13 @@
 					"@type": "item"
 				},
 				{
-					"project_url": "https://journals.sagepub.com/doi/full/10.1177/20563051231207857",
-					"project_name": "Multi-level Gov Design",
+					"project_url": "https://arxiv.org/abs/2401.16610",
+					"project_name": "Gov Perceptions",
 					"@type": "item"
 				},
 				{
-					"project_url": "https://arxiv.org/abs/2401.16610",
-					"project_name": "Gov Perceptions",
+					"project_url": "https://arxiv.org/abs/2501.14163",
+					"project_name": "Reddit Rules",
 					"@type": "item"
 				}
 			],
@@ -125,16 +125,13 @@
 					"author_name2": "Leijie Wang"
 				},
 				{
-					"author_name2": "Quan Ze (Jim) Chen"
-				},
-				{
-					"author_name2": "Xinyi Zhou"
+					"author_name2": "Galen Weld"
 				}
 			]
 		},
 		{
 			"title": "Public Interest and Deliberative Tech",
-			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for exchange. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
+			"description": "<span style=\"font-size: 14px;\">A healthy public sphere depends on the efforts of people working in the public interest---from journalists, to Wikipedia editors, to researchers, to public communicators. We build tools to support people in these roles and technology to strengthen and improve the work of traditional public institutions.</span>",
 			"project": [
 				{
 					"project_url": "https://social.cs.washington.edu/pub_details.html?id=online-communities-voluntary-misinfo-response",
@@ -152,13 +149,7 @@
 					"author_name2": "Ruotong Wang"
 				},
 				{
-					"author_name2": "Xinyi Zhou"
-				},
-				{
-					"author_name2": "Quan Ze (Jim) Chen"
-				},
-				{
-					"author_name2": "Bingcan(Gloria) Guo"
+					"author_name2": "Sam Wong"
 				}
 			]
 		},
@@ -191,12 +182,6 @@
 				},
 				{
 					"author_name2": "Andre Ye"
-				},
-				{
-					"author_name2": "Ruotong Wang"
-				},
-				{
-					"author_name2": "Lin Qiu"
 				},
 				{
 					"author_name2": "Shreya Sathyanarayanan"
