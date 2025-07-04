@@ -131,7 +131,7 @@
 		},
 		{
 			"title": "Public Interest and Deliberative Tech",
-			"description": "<span style=\"font-size: 14px;\">A healthy public sphere depends on the efforts of people working in the public interest---from journalists, to online volunteers, to researchers, to public communicators. We build tools to support people in these roles and technology to strengthen and improve the work of traditional public institutions.</span>",
+			"description": "<span style=\"font-size: 14px;\">A healthy public sphere depends on the efforts of people working in the public interest---from journalists, to online volunteers, to researchers and scientists, to public communicators. We build tools to support public interest workers and amplify their efforts. We also build technology to strengthen and support the goals of traditional public and civic institutions.</span>",
 			"project": [
 				{
 					"project_url": "https://social.cs.washington.edu/pub_details.html?id=online-communities-voluntary-misinfo-response",
