@@ -155,7 +155,7 @@
 		},
 		{
 			"title": "Tools for Thought and Creativity",
-			"description": "<span style=\"font-size: 14px;\">We design new software tools and human-AI systems to support group collaboration, critical thinking and reflection, and creative work.</span>",
+			"description": "<span style=\"font-size: 14px;\">Technology and human production have always been intertwined. But with increasingly advanced tools, what constitutes ownership and what demands attribution? When can tools help us collaborate better and when should they get out of our way? We design new tools to support group collaboration, critical thinking and reflection, and creative work.</span>",
 			"project": [
 				{
 					"project_url": "https://arxiv.org/abs/2401.09051",
@@ -216,9 +216,6 @@
 				}
 			],
 			"author2": [
-				{
-					"author_name2": "Quan Ze (Jim) Chen"
-				},
 				{
 					"author_name2": "Kevin Feng"
 				},
