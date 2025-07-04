@@ -88,7 +88,7 @@
 		},
 		{
 			"title": "Improving Online Discourse",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online spaces for conversation can be notorious for being toxic, hateful, misinformed, or just unproductive. We build tools to encourage higher quality conversations, including more informative and more empathetic ones. We also build tools to enforce social norms and guard against harassment in ways that are customizable to user and community needs.</span>",
+			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online spaces for conversation can be notorious for being toxic, hateful, misinformed, or just unproductive. We build tools to encourage higher quality conversations, including more informative and more empathetic ones. We also build tools to&nbsp; guard against harassment in ways that are customizable to user and community needs.</span>",
 			"project": [
 				{
 					"project_name": "FilterBuddy",
@@ -155,7 +155,7 @@
 		},
 		{
 			"title": "Tools for Thought and Creativity",
-			"description": "<span style=\"font-size: 14px;\">Technology and human production have always been intertwined. But with increasingly advanced tools, what constitutes ownership and what demands attribution? When can tools help us work better and when should they get out of our way? We design new tools to support group collaboration, critical thinking and reflection, and creative work.</span>",
+			"description": "<span style=\"font-size: 14px;\">Technology and human production have always been intertwined. But with increasingly advanced tools, what constitutes ownership and what demands attribution? When can tools help us work better and when should they get out of our way? We design new tools to support group collaboration, critical thinking and reflection, sensemaking, and creative work.</span>",
 			"project": [
 				{
 					"project_url": "https://arxiv.org/abs/2401.09051",
@@ -190,7 +190,7 @@
 		},
 		{
 			"title": "Socially Situated AI",
-			"description": "<span style=\"font-size: 14px;\">AI capabilities are rapidly advancing---but for these systems to truly make a positive impact on our society, we must build them with social awareness and govern them with all of society in mind. We work on developing AI systems that can engage with subjectivity, uncertainty, and nuance in principled and understandable ways.</span>",
+			"description": "<span style=\"font-size: 14px;\">AI capabilities are rapidly advancing---but for these systems to truly make a positive impact on our society, we must build them with social awareness and govern them with all of society in mind. We work on AI systems that engage with subjectivity, uncertainty, and nuance in principled and understandable ways, and that are reponsive to user and community values.</span>",
 			"project": [
 				{
 					"project_url": "https://homes.cs.washington.edu/~cqz/pubs/goldilocks_preprint.pdf",
