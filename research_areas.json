@@ -131,7 +131,7 @@
 		},
 		{
 			"title": "Public Interest and Deliberative Tech",
-			"description": "<span style=\"font-size: 14px;\">A healthy public sphere depends on the efforts of people working in the public interest---from journalists, to online volunteers, to researchers and scientists, to public communicators. We build tools to support public interest workers and amplify their efforts. We also build technology to strengthen and support the goals of traditional public and civic institutions.</span>",
+			"description": "<span style=\"font-size: 14px;\">A healthy public sphere depends on the efforts of people working in the public interest---from journalists, to online volunteers, to researchers and scientists, to public communicators. We build tools to support public interest workers and amplify their efforts. We also build technology to strengthen and support the goals of traditional civic institutions.</span>",
 			"project": [
 				{
 					"project_url": "https://social.cs.washington.edu/pub_details.html?id=online-communities-voluntary-misinfo-response",
@@ -155,7 +155,7 @@
 		},
 		{
 			"title": "Tools for Thought and Creativity",
-			"description": "<span style=\"font-size: 14px;\">Technology and human production have always been intertwined. But with increasingly advanced tools, what constitutes ownership and what demands attribution? When can tools help us collaborate better and when should they get out of our way? We design new tools to support group collaboration, critical thinking and reflection, and creative work.</span>",
+			"description": "<span style=\"font-size: 14px;\">Technology and human production have always been intertwined. But with increasingly advanced tools, what constitutes ownership and what demands attribution? When can tools help us work better and when should they get out of our way? We design new tools to support group collaboration, critical thinking and reflection, and creative work.</span>",
 			"project": [
 				{
 					"project_url": "https://arxiv.org/abs/2401.09051",
@@ -190,7 +190,7 @@
 		},
 		{
 			"title": "Socially Situated AI",
-			"description": "<span style=\"font-size: 14px;\">We create AI tools that capture socially-constructed concepts as well as AI agents for everyday use of social media.</span>",
+			"description": "<span style=\"font-size: 14px;\">AI capabilities are rapidly advancing---but for these systems to truly make a positive impact on our society, we must build them with social awareness and govern them with all of society in mind. We work on developing AI systems that can engage with subjectivity, uncertainty, and nuance in principled and understandable ways.</span>",
 			"project": [
 				{
 					"project_url": "https://homes.cs.washington.edu/~cqz/pubs/goldilocks_preprint.pdf",
