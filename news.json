@@ -128,11 +128,31 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@9b2ca0fb61952dd1ff0dd2be10a9696b658d0aa7/images/Gl6EcZrWYAAQ1T8.jpeg",
+			"title": "Amy spoke at the Nokia Bell Labs Responsible AI Seminar Series",
+			"date": "March 2025",
+			"description": "The talk was titled \"Interactive Systems for Making AI Work for Us\".",
+			"link": {
+				"link_url": "https://www.youtube.com/playlist?list=PLZ4JlAKnv387iFtg5IGg2-dhtmnU7cpNu",
+				"link_text": "Seminar series"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5e1cd3948a83795be796d883bfb096a08737a818/images/20250309_200601.jpg",
 			"title": "Farewell dinner for Jim, who is leaving for AI & Democracy Foundation",
 			"date": "March 2025",
 			"description": "Jim is leaving SFL after his two year postdoc to join the AI &amp; Democracy Foundation as a research scientist!",
 			"link": {}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@fbc9769858486cce9d9d057236f535f1400ef0a3/images/unnamed%20(2).jpg",
+			"title": "Amy spoke at the Indiana University OSOME speaker series",
+			"date": "March 2025",
+			"description": "Amy gave a talk titled \"Platform Designs and Tools to Support Users in Addressing Misinformation on Social Media.\"",
+			"link": {
+				"link_url": "https://www.youtube.com/watch?v=_8S-sk-gv9M",
+				"link_text": "Link to full talk"
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5a7a33950eebc572b416df277765b61d4e3836da/images/Sloan%20Research%20Fellow%202025%20hero%20slider.png",
@@ -172,6 +192,16 @@
 			"link": {
 				"link_url": "https://dl.acm.org/doi/abs/10.1145/3701209",
 				"link_text": "Paper"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@dddc1172611d93541f6e8dad45a2ca879dc0a416/images/channels4_profile.jpg",
+			"title": "Amy spoke to CNBC about Bluesky feeds",
+			"date": "Jan 2025",
+			"description": "Amy was briefly quoted in a video CNBC made about Bluesky, where she explained how Bluesky enables people to choose their own feeds and moderation.",
+			"link": {
+				"link_url": "https://www.youtube.com/watch?v=Kbk1QyS0B_0",
+				"link_text": "Link to video"
 			}
 		},
 		{
