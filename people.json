@@ -199,6 +199,20 @@
 			},
 			"@type": "Person"
 		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5ca403ac5334325097ce06b77fd743429520251e/images/adi.jpg",
+			"name": "Aadit Barua",
+			"jobTitle": "intern",
+			"@type": "Person",
+			"bio": "Aadit Barua is an undergraduate student at The University of Texas at Austin studying Computer Science and Math. His current research interests are in human-AI interaction, particularly creativity support tools and social computing.",
+			"links": {
+				"website_url": "https://adib2002.github.io/",
+				"scholar_url": "https://scholar.google.com/citations?user=QbvGu3AAAAAJ&hl=en",
+				"github_url": "https://github.com/AdiB2002",
+				"email": "aaditbarua@utexas.edu"
+			},
+			"alum": false
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
@@ -621,20 +635,6 @@
 				"website_url": "https://www.linkedin.com/in/leon-leibmann-3a70131a3/"
 			},
 			"@type": "Person"
-		},
-    {
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5ca403ac5334325097ce06b77fd743429520251e/images/adi.jpg",
-			"name": "Aadit Barua",
-			"jobTitle": "intern",
-			"@type": "Person",
-			"bio": "Aadit Barua is an undergraduate student at The University of Texas at Austin studying Computer Science and Math. His current research interests are in human-AI interaction, particularly creativity support tools and social computing.",
-			"links": {
-				"website_url": "https://adib2002.github.io/",
-				"scholar_url": "https://scholar.google.com/citations?user=QbvGu3AAAAAJ&hl=en",
-				"github_url": "https://github.com/AdiB2002",
-				"email": "aaditbarua@utexas.edu"
-			},
-			"alum": false
 		}
 	]
 }
