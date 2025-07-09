@@ -200,7 +200,7 @@
 			"@type": "Person"
 		},
     {
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5ca403ac5334325097ce06b77fd743429520251e/images/adi.jpg",
+			"image": "images/adi.jpg",
 			"name": "Aadit Barua",
 			"jobTitle": "intern",
 			"@type": "Person",
