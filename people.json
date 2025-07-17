@@ -165,7 +165,7 @@
 			"alum": false
 		},
 		{
-			"image": "images/Andrew Shaw.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@41b5edaa30bd742d5bfa30741dde917894e795a1/images/Andrew%20Shaw.jpg",
 			"name": "Andrew Shaw",
 			"jobTitle": "undergrad",
 			"bio": "Andrew Shaw (he/him) is an undergraduate student at the University of Washington studying computer science and philosophy. His resesarch interests are in computer and AI ethics, particularly regarding the impacts of sociotechnical systems on marginalized communities.",
@@ -199,8 +199,8 @@
 			},
 			"@type": "Person"
 		},
-    {
-			"image": "images/adi.jpg",
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@c0305d123972f59375d0de290570c650637a2eda/images/adi.jpg",
 			"name": "Aadit Barua",
 			"jobTitle": "intern",
 			"@type": "Person",
