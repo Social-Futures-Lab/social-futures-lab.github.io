@@ -117,15 +117,16 @@
 			"alum": false
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@4e44c55d99969b4f883de58b30261ed8a1e1d7fb/images/Professional_Headshot.png",
 			"name": "Teanna Barrett",
 			"jobTitle": "phd",
 			"bio": "Teanna (she/her) is a PhD at the University of Washington CSE. She is interested in building data scientists' capacity to reason ethically through their work and challenge Western-centric data ethics paradigms through Black thought.",
 			"links": {
-				"website_url": "http://teannabarrett.com/",
+				"website_url": "tbarrett553.github.io/acad_web/",
 				"scholar_url": "https://scholar.google.com/citations?user=hUfhQwcAAAAJ&hl=en&oi=ao",
 				"twitter_url": "https://x.com/bound4nostar",
-				"email": "tb23@cs.washington.edu"
+				"email": "tb23@cs.washington.edu",
+				"github_url": "https://github.com/TBarrett553"
 			},
 			"@type": "Person",
 			"alum": false
