@@ -15,36 +15,7 @@
 			},
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
-			"name": "Quan Ze (Jim) Chen",
-			"jobTitle": "postdoc",
-			"@type": "Person",
-			"links": {
-				"website_url": "https://homes.cs.washington.edu/~cqz/",
-				"scholar_url": "https://scholar.google.com/citations?hl=en&user=TnBpKAoAAAAJ",
-				"github_url": "https://github.com/jabbany",
-				"twitter_url": "https://twitter.com/cquanze",
-				"email": "cqz@cs.washington.edu"
-			},
-			"bio": "Quan Ze (Jim) is a former PhD student, now postdoc in SFL. He is interested in understading disagreement and ambiguity in human annotation and building&nbsp; crowdsourcing and human-in-the loop workflows.",
-			"alum": false
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
-			"name": "Xinyi Zhou",
-			"jobTitle": "postdoc",
-			"bio": "Xinyi Zhou is a Postdoctoral Scholar at the University of Washington. Her research interests are broadly in the intersection of data mining, machine learning, natural language processing, and social computing and their applications to combat m/disinformation.",
-			"links": {
-				"website_url": "https://xinyizhou.xyz/",
-				"scholar_url": "https://scholar.google.com/citations?user=9U_Ge4MAAAAJ&hl=en&oi=ao",
-				"twitter_url": "https://twitter.com/XinyiZhouXZ",
-				"email": "xzhou@cs.washington.edu"
-			},
-			"@type": "Person",
-			"alum": false
-		},
-		{
+    {
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
@@ -240,6 +211,37 @@
 			"@type": "Person",
 			"alum": true,
 			"current": "Simon Fraser faculty"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
+			"name": "Quan Ze (Jim) Chen",
+			"jobTitle": "phd",
+			"@type": "Person",
+			"links": {
+				"website_url": "https://homes.cs.washington.edu/~cqz/",
+				"scholar_url": "https://scholar.google.com/citations?hl=en&user=TnBpKAoAAAAJ",
+				"github_url": "https://github.com/jabbany",
+				"twitter_url": "https://twitter.com/cquanze",
+				"email": "cqz@cs.washington.edu"
+			},
+			"bio": "Quan Ze (Jim) is a former PhD student, now postdoc in SFL. He is interested in understading disagreement and ambiguity in human annotation and building&nbsp; crowdsourcing and human-in-the loop workflows.",
+			"alum": true,
+      "current": "AI & Democracy Foundation"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
+			"name": "Xinyi Zhou",
+			"jobTitle": "postdoc",
+			"bio": "Xinyi Zhou is a Postdoctoral Scholar at the University of Washington. Her research interests are broadly in the intersection of data mining, machine learning, natural language processing, and social computing and their applications to combat m/disinformation.",
+			"links": {
+				"website_url": "https://xinyizhou.xyz/",
+				"scholar_url": "https://scholar.google.com/citations?user=9U_Ge4MAAAAJ&hl=en&oi=ao",
+				"twitter_url": "https://twitter.com/XinyiZhouXZ",
+				"email": "xzhou@cs.washington.edu"
+			},
+			"@type": "Person",
+			"alum": true,
+      "current": "Boise State CS faculty"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
