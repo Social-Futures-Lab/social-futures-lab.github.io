@@ -244,7 +244,7 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
 			"name": "Jina Yoon",
-			"jobTitle": "phd",
+			"jobTitle": "masters",
 			"bio": "Jina Yoon is a PhD student of Computer Science at the University of Washington. Her current research interests are in fostering empathetic conversation, combating misinformation, and leveraging addictive design for good. She also really likes to play video games.",
 			"links": {
 				"website_url": "https://jinayoon.com",
@@ -260,7 +260,7 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
 			"name": "Inyoung Cheong",
-			"jobTitle": "phd",
+			"jobTitle": "visiting",
 			"alum": true,
 			"bio": "Inyoung Cheong is a PhD student of Law at the University of Washington. Her research explores AI policy, governance, and regulatory approaches to mitigate foreseeable societal harms and developing interventions that promote accountability.",
 			"links": {
