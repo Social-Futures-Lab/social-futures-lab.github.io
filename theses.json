@@ -1,5 +1,22 @@
 {
 	"thesis": [
+    {
+			"title": "Agonistic Image Generation: Unsettling the Hegemony of Intention",
+			"author": [
+				{
+					"author_name": "Andrew Shaw"
+				},
+        {
+					"author_name": "Andre Ye"
+				}
+			],
+			"type": "Undergraduate Honors Thesis",
+			"date": "June 2025",
+      "award": "Outstanding Undergraduate Honors Thesis Award"
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2502.15242"
+			}
+		},
 		{
 			"title": "Building Proactive and Instant-Reactive Safety Designs to Address Harassment in Social Virtual Reality",
 			"author": [
