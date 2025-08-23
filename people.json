@@ -1,11 +1,11 @@
 {
 	"member": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba8817e4aa7f4f844265753ce2597b610e5e0318/images/amyz.png",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@c76f80bda86b38f868d4016be217f11f9b55d4cf/images/amyface.jpg",
 			"name": "Amy Zhang",
 			"jobTitle": "pi",
 			"@type": "Person",
-			"bio": "Amy X. Zhang is an assistant professor at University of Washington's Allen School of Computer Science and Engineering, where she directs the Social Futures Lab. Her research interests are in social computing and HCI.",
+			"bio": "Amy X. Zhang is an associate professor at University of Washington's Allen School of Computer Science and Engineering, where she directs the Social Futures Lab. Her research interests are in social computing and HCI.",
 			"links": {
 				"website_url": "https://homes.cs.washington.edu/~axz",
 				"scholar_url": "https://scholar.google.com/citations?user=thZJZaYAAAAJ&hl=en",
@@ -15,7 +15,7 @@
 			},
 			"alum": false
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
@@ -226,7 +226,7 @@
 			},
 			"bio": "Quan Ze (Jim) is a former PhD student, now postdoc in SFL. He is interested in understading disagreement and ambiguity in human annotation and building&nbsp; crowdsourcing and human-in-the loop workflows.",
 			"alum": true,
-      "current": "AI & Democracy Foundation"
+			"current": "AI & Democracy Foundation"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
@@ -241,7 +241,7 @@
 			},
 			"@type": "Person",
 			"alum": true,
-      "current": "Boise State CS faculty"
+			"current": "Boise State CS faculty"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
