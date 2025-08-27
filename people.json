@@ -46,6 +46,20 @@
 			"alum": false
 		},
 		{
+			"name": "Vinay Koshy",
+			"jobTitle": "postdoc",
+			"bio": "Vinay Koshy is a postdoc at the University of Washington. He is interested in using AI to facilitate collective decision-making processes, particularly in the context of online community governance.",
+			"links": {
+				"website_url": "https://vinyoshy2.github.io",
+				"scholar_url": "https://scholar.google.com/citations?user=OtzxYGQAAAAJ&hl=en&oi=ao",
+				"github_url": "http://github.com/vinyoshy2",
+				"email": "vkoshy2@illinois.edu"
+			},
+			"@type": "Person",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3697dc8a51230af4fafc065877dc65e8f9713770/images/galen.jpg",
+			"alum": false
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@229785752fd0a46bd19eb162ecc7e13e3495613b/images/kjfeng.jpeg",
 			"name": "Kevin Feng",
 			"jobTitle": "phd",
