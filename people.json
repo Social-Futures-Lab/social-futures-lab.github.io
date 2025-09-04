@@ -117,6 +117,19 @@
 			"alum": false
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@4e44c55d99969b4f883de58b30261ed8a1e1d7fb/images/Matt_headshot.jpg",
+			"name": "Matthew Bilik",
+			"jobTitle": "phd",
+			"bio": "Matthew is a PhD student in Human Centered Design &amp; Engineering at the University of Washington. He is interested in machine representations of expertise and designing and assessing socio-technical systems in high-stakes decision-making contexts.",
+			"links": {
+				"website_url": "https://www.mattbilik.com",
+				"email": "bilik@uw.edu",
+				"github_url": "https://github.com/mattbilik"
+			},
+			"@type": "Person",
+			"alum": false
+		},
+		{
 			"name": "Andre Ye",
 			"jobTitle": "undergrad",
 			"bio": "Andre Ye is an undergraduate student at the University of Washington studying computer science and philosophy. His primary research interest is in building more robust and responsible machine &amp; deep learning systems.",
