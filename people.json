@@ -15,7 +15,7 @@
 			},
 			"alum": false
 		},
-    {
+		{
 			"name": "Vinay Koshy",
 			"jobTitle": "postdoc",
 			"bio": "Vinay Koshy is a postdoc at the University of Washington. He is interested in using AI to facilitate collective decision-making processes, particularly in the context of online community governance.",
@@ -117,7 +117,7 @@
 			"alum": false
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@4e44c55d99969b4f883de58b30261ed8a1e1d7fb/images/Matt_headshot.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@73d82b4197d0bc888f7b1cdb1816bce5d6aecd69/images/Matt_headshot.jpg",
 			"name": "Matthew Bilik",
 			"jobTitle": "phd",
 			"bio": "Matthew is a PhD student in Human Centered Design &amp; Engineering at the University of Washington. He is interested in machine representations of expertise and designing and assessing socio-technical systems in high-stakes decision-making contexts.",
