@@ -215,12 +215,11 @@
     {
 			"name": "Tony Zhou",
 			"jobTitle": "undergrad",
-			"bio": "Tony is an undergraduate student at the University of Washington studying computer science. He's broadly interested in HCI and science communication, currently focusing on understanding decentralized social media and end-user personalized feed curation.",
+			"bio": "Tony is an undergraduate student at the University of Washington studying computer science. He is broadly interested in HCI and science communication, currently focusing on understanding decentralized social media and end-user personalized feed curation.",
 			"links": {
-				"website_url": "https://tyzhou.com/",
+				"website_url": "https://tyzhou.com/"
 			},
 			"@type": "Person",
-			"image": "",
 			"alum": false
 		},
 		{
