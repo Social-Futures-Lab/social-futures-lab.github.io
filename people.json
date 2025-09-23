@@ -212,6 +212,17 @@
 			},
 			"alum": false
 		},
+    {
+			"name": "Tony Zhou",
+			"jobTitle": "undergrad",
+			"bio": "Tony is an undergraduate student at the University of Washington studying computer science. He's broadly interested in HCI and science communication, currently focusing on understanding decentralized social media and end-user personalized feed curation.",
+			"links": {
+				"website_url": "https://tyzhou.com/",
+			},
+			"@type": "Person",
+			"image": "https://github.com/Social-Futures-Lab/social-futures-lab.github.io/blob/master/images/tony_zhou.jpg",
+			"alum": false
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
