@@ -1,6 +1,48 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@0bbadf738312e14b9556e688807645ec045c745d/images/llmsurvey.jpg",
+			"title": "LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and Perceptions",
+			"id": "llms-research",
+			"author": [
+				{
+					"author_name": "Simona Liao"
+				},
+				{
+					"author_name": "Maria Antoniak"
+				},
+				{
+					"author_name": "Inyoung Cheong"
+				},
+				{
+					"author_name": "Evie Cheng"
+				},
+				{
+					"author_name": "Ai-Heng Lee"
+				},
+				{
+					"author_name": "Kyle Lo"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Conference on Language Models",
+			"conference url": "https://colmweb.org/",
+			"conference": "COLM",
+			"year": "2025",
+			"short_abstract": "<p>We present the first large-scale survey of 816 verified research article authors to understand how the research community leverages and perceives LLMs as research tools.</p>",
+			"abstract": "The rise of large language models (LLMs) has led many researchers to consider their usage for scientific work. Some have found benefits using LLMs to augment or automate aspects of their research pipeline, while others have urged caution due to risks and ethical concerns. Yet little work has sought to quantify and characterize how researchers use LLMs and why. We present the first large-scale survey of 816 verified research article authors to understand how the research community leverages and perceives LLMs as research tools. We examine participants' self-reported LLM usage, finding that 81% of researchers have already incorporated LLMs into different aspects of their research workflow. We also find that traditionally disadvantaged groups in academia (non-White, junior, and non-native English speaking researchers) report higher LLM usage and perceived benefits, suggesting potential for improved research equity. However, women, non-binary, and senior researchers have greater ethical concerns, potentially hindering adoption.a",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2411.05025",
+				"code_url": "https://github.com/allenai/llm-research-survey",
+				"data_url": "https://github.com/allenai/llm-research-survey"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5cc7e98d2ff7c827c642cbb77b3b38a5fa307b9a/images/plotreddit.jpg",
 			"title": "Reddit Rules and Rulers: Quantifying the Link Between Rules and Perceptions of Governance across Thousands of Communities",
 			"id": "reddit-rules-and-rulers",
