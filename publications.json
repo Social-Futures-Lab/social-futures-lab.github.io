@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@f3e4f91ce8efd33d2ca5e927620c5d80d485dc43/images/Susskind-Hero-Image-w-color-wash--4-_webres.jpg",
+			"title": "Levels of Autonomy for AI Agents",
+			"id": "levels-of-autonomy-for-ai-agents",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "David McDonald"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Knight First Amendment Institute at Columbia",
+			"conference": "Knight First Amendment Institute",
+			"year": "2025",
+			"short_abstract": "<p>In this work, we define five levels of escalating agent autonomy, characterized by the roles a user can take when interacting with an agent: operator, collaborator, consultant, approver, and observer. Within each level, we describe the ways by which a user can exert control over the agent and open questions for how to design the nature of user-agent interaction.</p>",
+			"abstract": "Autonomy is a double-edged sword for AI agents, simultaneously unlocking transformative possibilities and serious risks. How can agent developers calibrate the appropriate levels of autonomy at which their agents should operate? We argue that an agent's level of autonomy can be treated as a deliberate design decision, separate from its capability and operational environment. In this work, we define five levels of escalating agent autonomy, characterized by the roles a user can take when interacting with an agent: operator, collaborator, consultant, approver, and observer. Within each level, we describe the ways by which a user can exert control over the agent and open questions for how to design the nature of user-agent interaction. We then highlight a potential application of our framework towards AI autonomy certificates to govern agent behavior in single- and multi-agent systems. We conclude by proposing early ideas for evaluating agents' autonomy. Our work aims to contribute meaningful, practical steps towards responsibly deployed and useful AI agents in the real world.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2506.12469",
+				"website_url": "https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@0bbadf738312e14b9556e688807645ec045c745d/images/llmsurvey.jpg",
 			"title": "LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and Perceptions",
 			"id": "llms-research",
