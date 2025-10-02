@@ -223,6 +223,17 @@
 			"@type": "Person",
 			"alum": false
 		},
+    {
+			"name": "Tanjal Shukla",
+			"jobTitle": "undergrad",
+			"bio": "Tanjal is an undergraduate student at the University of Washington studying Computer Science and Computational Finance. His research interests are in safely empowering more capable and trustworthy AI agents.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/tanjals/"
+			},
+      "image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@a90228c66577367eb720e7bfb2868c4c8c2060d2/images/tanjal.jpg",
+			"@type": "Person",
+			"alum": false
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
