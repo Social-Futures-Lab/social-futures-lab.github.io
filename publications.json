@@ -231,7 +231,8 @@
 			"links": {
 				"pdf_url": "https://arxiv.org/abs/2401.16610"
 			},
-			"conference_full_name": "ACM Conference on Computer Supported Cooperative Work"
+			"conference_full_name": "ACM Conference on Computer Supported Cooperative Work",
+			"award": "Best Paper Honorable Mention"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@858f6f26a03d0406a0185af3e3e717d82fea9926/images/socialvr.jpg",
@@ -314,7 +315,8 @@
 			"links": {
 				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3711106"
 			},
-			"conference url": "https://cscw.acm.org/2025/"
+			"conference url": "https://cscw.acm.org/2025/",
+			"award": "DEI Recognition Award"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@9633452f3dd26e4f6c66d1165da4a9d217f6db8c/images/plotjury.jpg",
