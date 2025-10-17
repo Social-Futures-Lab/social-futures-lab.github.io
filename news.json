@@ -11,6 +11,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@12ac4c99f5ae4bb73a9af8487bdb9c4783abd3da/images/galenpic.jpg",
+			"title": "Congrats to Galen for successfully defending his dissertation!",
+			"date": "Sept 2025",
+			"description": "Galen Weld successfully defended his dissertation on \"Improving Online Community Governance at Web Scale\". Congrats Galen!",
+			"link": {
+				"link_url": "https://www.youtube.com/watch?v=k91N2pRLYW8",
+				"link_text": "Video recording of defense"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@ee9881b895760ce89af2166461b84d9d7716e2e7/images/newphd.jpg",
 			"title": "Welcome to new postdoc Vinay and new PhD rotation student Matthew",
 			"date": "Sept 2025",
