@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@606bc5edc78412c12064ec519a42ae7630a3970b/images/bafkreidqy4ybassq4a63fsnujfadu2ij37xly2obtgttw6by6bq6khukmm.jpg",
+			"title": "SFL at CSCW: 3 attendees, 4 papers, and 2 paper awards",
+			"date": "Oct 2025",
+			"description": "SFL is attending CSCW 2025 in Bergen, Norway! Vinay, Galen, and Simona will be attending, so please say hi to them! We also have three papers with co-authors from our lab: Galen's paper on <a href=\"https://arxiv.org/abs/2401.16610\">a large-scale measure of perceptions of moderation in online communities</a>, Simona's paper on <a href=\"https://arxiv.org/abs/2504.05781\">proactive and instant-reactive approaches to combatting harassment in social VR</a>, Philip's paper on a <a href=\"https://dl.acm.org/doi/abs/10.1145/3711106\">literature review of neurodiversity and social computing</a>, and Jina's paper on <a href=\"https://dl.acm.org/doi/abs/10.1145/3711114\">empowering teenager moderator experiences on Discord</a>. We also won two awards! Galen's paper received a Best Paper Honorable Mention, while Philip's paper received a DEI Recognition.",
+			"link": {
+				"link_url": "https://cscw.acm.org/2025/",
+				"link_text": "CSCW website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@ee9881b895760ce89af2166461b84d9d7716e2e7/images/newphd.jpg",
 			"title": "Welcome to new postdoc Vinay and new PhD rotation student Matthew",
 			"date": "Sept 2025",
