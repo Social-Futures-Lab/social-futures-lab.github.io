@@ -130,21 +130,9 @@
 			"alum": false
 		},
 		{
-			"name": "Andre Ye",
-			"jobTitle": "undergrad",
-			"bio": "Andre Ye is an undergraduate student at the University of Washington studying computer science and philosophy. His primary research interest is in building more robust and responsible machine &amp; deep learning systems.",
-			"links": {
-				"website_url": "https://andre-ye.github.io",
-				"github_url": "https://github.com/andre-ye"
-			},
-			"@type": "Person",
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg",
-			"alum": false
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7c66f10446f861c0979ded595120ff5b7caf5a52/images/Shreya%20Sathyanarayanan.jpg",
 			"name": "Shreya Sathyanarayanan",
-			"jobTitle": "undergrad",
+			"jobTitle": "masters",
 			"bio": "Shreya Sathyanarayanan is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in HCI, designing and developing tools for online collaboration, and addressing misinformation.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/shreya-s-427807202/"
@@ -166,25 +154,13 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@41b5edaa30bd742d5bfa30741dde917894e795a1/images/Andrew%20Shaw.jpg",
 			"name": "Andrew Shaw",
-			"jobTitle": "undergrad",
+			"jobTitle": "masters",
 			"bio": "Andrew Shaw (he/him) is an undergraduate student at the University of Washington studying computer science and philosophy. His resesarch interests are in computer and AI ethics, particularly regarding the impacts of sociotechnical systems on marginalized communities.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/andrew-b-shaw/"
 			},
 			"@type": "Person",
 			"alum": false
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b2d0c7a3dc18241fc29014dbfd2e586235064122/images/Screen%20Shot%202022-05-08%20at%205.10.32%20PM.png",
-			"name": "Lin Qiu",
-			"jobTitle": "masters",
-			"alum": false,
-			"bio": "Lin Qiu is a BS/MS student at the University of Washington in Computer Science. Her research interests are in HCI and Social Computing.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/lin-qiu-cs/",
-				"scholar_url": "https://scholar.google.com/citations?user=IE9lnlEAAAAJ&hl=en"
-			},
-			"@type": "Person"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@25d12fecd7a4405f34adf3aea36902061c04d369/images/sam_wong.webp",
@@ -197,20 +173,6 @@
 				"scholar_url": "https://scholar.google.com/citations?user=3ikhPPUAAAAJ&hl=en"
 			},
 			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@c0305d123972f59375d0de290570c650637a2eda/images/adi.jpg",
-			"name": "Aadit Barua",
-			"jobTitle": "intern",
-			"@type": "Person",
-			"bio": "Aadit Barua is an undergraduate student at The University of Texas at Austin studying Computer Science and Math. His current research interests are in human-AI interaction, particularly creativity support tools and social computing.",
-			"links": {
-				"website_url": "https://adib2002.github.io/",
-				"scholar_url": "https://scholar.google.com/citations?user=QbvGu3AAAAAJ&hl=en",
-				"github_url": "https://github.com/AdiB2002",
-				"email": "aaditbarua@utexas.edu"
-			},
-			"alum": false
 		},
     {
 			"name": "Tony Zhou",
@@ -232,6 +194,20 @@
 			},
       "image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@a90228c66577367eb720e7bfb2868c4c8c2060d2/images/tanjal.jpg",
 			"@type": "Person",
+			"alum": false
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@c0305d123972f59375d0de290570c650637a2eda/images/adi.jpg",
+			"name": "Aadit Barua",
+			"jobTitle": "intern",
+			"@type": "Person",
+			"bio": "Aadit Barua is an undergraduate student at The University of Texas at Austin studying Computer Science and Math. His current research interests are in human-AI interaction, particularly creativity support tools and social computing.",
+			"links": {
+				"website_url": "https://adib2002.github.io/",
+				"scholar_url": "https://scholar.google.com/citations?user=QbvGu3AAAAAJ&hl=en",
+				"github_url": "https://github.com/AdiB2002",
+				"email": "aaditbarua@utexas.edu"
+			},
 			"alum": false
 		},
 		{
@@ -323,6 +299,19 @@
 			"current": "Princeton CITP postdoc"
 		},
 		{
+			"name": "Andre Ye",
+			"jobTitle": "undergrad",
+			"bio": "Andre Ye is an undergraduate student at the University of Washington studying computer science and philosophy. His primary research interest is in building more robust and responsible machine &amp; deep learning systems.",
+			"links": {
+				"website_url": "https://andre-ye.github.io",
+				"github_url": "https://github.com/andre-ye"
+			},
+			"@type": "Person",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg",
+			"alum": true,
+      "current": "MIT PhD"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@e3e4646243b5fce4e4cb128f1904aa81fc388ef9/images/Simona%20(1).jpg",
 			"name": "Simona Liao",
 			"jobTitle": "masters",
@@ -358,6 +347,19 @@
 			"@type": "Person",
 			"alum": true,
 			"current": "Promise"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b2d0c7a3dc18241fc29014dbfd2e586235064122/images/Screen%20Shot%202022-05-08%20at%205.10.32%20PM.png",
+			"name": "Lin Qiu",
+			"jobTitle": "masters",
+			"alum": true,
+			"bio": "Lin Qiu is a BS/MS student at the University of Washington in Computer Science. Her research interests are in HCI and Social Computing.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/lin-qiu-cs/",
+				"scholar_url": "https://scholar.google.com/citations?user=IE9lnlEAAAAJ&hl=en"
+			},
+			"@type": "Person",
+      "current": "Snowflake"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
