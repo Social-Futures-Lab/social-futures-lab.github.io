@@ -162,6 +162,16 @@
 			"@type": "Person",
 			"alum": false
 		},
+    {
+			"name": "Iris Zhong",
+			"jobTitle": "undergrad",
+			"bio": "Iris Zhong is an undergraduate at the University of Washington studying computer science and psychology. She is interested in social computing and HCI, particularly human-AI interaction and studying online communities.",
+			"links": {
+			},
+      "image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@80099948d2953d82673e35e83d794d4a6e7a0a56/images/iris.jpg",
+			"@type": "Person",
+			"alum": false
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@25d12fecd7a4405f34adf3aea36902061c04d369/images/sam_wong.webp",
 			"name": "Sam Wong",
