@@ -107,7 +107,7 @@
 			"jobTitle": "phd",
 			"bio": "Teanna (she/her) is a PhD at the University of Washington CSE. She is interested in building data scientists' capacity to reason ethically through their work and challenge Western-centric data ethics paradigms through Black thought.",
 			"links": {
-				"website_url": "tbarrett553.github.io/acad_web/",
+				"website_url": "https://tbarrett553.github.io/acad_web/",
 				"scholar_url": "https://scholar.google.com/citations?user=hUfhQwcAAAAJ&hl=en&oi=ao",
 				"twitter_url": "https://x.com/bound4nostar",
 				"email": "tb23@cs.washington.edu",
@@ -162,13 +162,12 @@
 			"@type": "Person",
 			"alum": false
 		},
-    {
+		{
 			"name": "Iris Zhong",
 			"jobTitle": "undergrad",
 			"bio": "Iris Zhong is an undergraduate at the University of Washington studying computer science and psychology. She is interested in social computing and HCI, particularly human-AI interaction and studying online communities.",
-			"links": {
-			},
-      "image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@80099948d2953d82673e35e83d794d4a6e7a0a56/images/iris.jpg",
+			"links": {},
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@80099948d2953d82673e35e83d794d4a6e7a0a56/images/iris.jpg",
 			"@type": "Person",
 			"alum": false
 		},
@@ -184,25 +183,25 @@
 			},
 			"@type": "Person"
 		},
-    {
+		{
 			"name": "Tony Zhou",
 			"jobTitle": "undergrad",
 			"bio": "Tony is an undergraduate student at the University of Washington studying computer science. He is broadly interested in HCI and science communication, currently focusing on understanding decentralized social media and end-user personalized feed curation.",
 			"links": {
 				"website_url": "https://tyzhou.com/"
 			},
-      "image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@ff3864939fd2a7ca86ad512665aecabdcc2e5a5c/images/tyzhou.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@ff3864939fd2a7ca86ad512665aecabdcc2e5a5c/images/tyzhou.jpg",
 			"@type": "Person",
 			"alum": false
 		},
-    {
+		{
 			"name": "Tanjal Shukla",
 			"jobTitle": "undergrad",
 			"bio": "Tanjal is an undergraduate student at the University of Washington studying Computer Science and Computational Finance. His research interests are in safely empowering more capable and trustworthy AI agents.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/tanjals/"
 			},
-      "image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@a90228c66577367eb720e7bfb2868c4c8c2060d2/images/tanjal.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@a90228c66577367eb720e7bfb2868c4c8c2060d2/images/tanjal.jpg",
 			"@type": "Person",
 			"alum": false
 		},
@@ -319,7 +318,7 @@
 			"@type": "Person",
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg",
 			"alum": true,
-      "current": "MIT PhD"
+			"current": "MIT PhD"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@e3e4646243b5fce4e4cb128f1904aa81fc388ef9/images/Simona%20(1).jpg",
@@ -369,7 +368,7 @@
 				"scholar_url": "https://scholar.google.com/citations?user=IE9lnlEAAAAJ&hl=en"
 			},
 			"@type": "Person",
-      "current": "Snowflake"
+			"current": "Snowflake"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
