@@ -1,41 +1,6 @@
 {
 	"paper": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@25f5b21570d6d48ac3ae134f3dfeacddef26fa1c/images/african%20data%20ethics.png",
-			"title": "African Data Ethics: A Discursive Framework for Black Decolonial AI",
-			"id": "african-data-ethics-a-discursive-framework-for-black-decolonial-ai",
-			"author": [
-				{
-					"author_name": "Teanna Barrett"
-				},
-				{
-					"author_name": "Chinasa T. Okolo"
-				},
-				{
-					"author_name": "B. Biira"
-				},
-				{
-					"author_name": "Eman Sherif"
-				},
-				{
-					"author_name": "Amy Zhang"
-				},
-				{
-					"author_name": "Leilani Battle"
-				}
-			],
-			"conference_full_name": "ACM Conference on Fairness, Accountability, and Transparency",
-			"conference": "FAccT",
-			"year": "2025",
-			"short_abstract": "1-2 sentence summary",
-			"abstract": "The shift towards pluralism in global data ethics acknowledges the importance of including perspectives from the Global Majority to develop responsible data science practices that mitigate systemic harms in the current data science ecosystem. Sub-Saharan African (SSA) practitioners, in particular, are disseminating progressive data ethics principles and best practices for identifying and navigating anti-blackness and data colonialism. To center SSA voices in the global data ethics discourse, we present a framework for African data ethics informed by the thematic analysis of an interdisciplinary corpus of 47 documents. Our framework features six major principles: 1) Challenge Power Asymmetries, 2) Assert Data Self-Determination, 3) Invest in Local Data Institutions & Infrastructures, 4) Utilize Communalist Practices, 5) Center Communities on the Margins, and 6) Uphold Common Good. We compare our framework to seven particularist data ethics frameworks to find similar conceptual coverage but diverging interpretations of shared values. Finally, we discuss how African data ethics demonstrates the operational value of data ethics frameworks. Our framework highlights Sub-Saharan Africa as a pivotal site of responsible data science by promoting the practice of communalism, self-determination, and cultural preservation.",
-			"bibtex": "@inproceedings{10.1145/3715275.3732023,\nauthor = {Barrett, Teanna and Okolo, Chinasa T. and Biira, B. and Sherif, Eman and Zhang, Amy and Battle, Leilani},\ntitle = {African Data Ethics: A Discursive Framework for Black Decolonial AI},\nyear = {2025},\nisbn = {9798400714825},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3715275.3732023},\ndoi = {10.1145/3715275.3732023},\nabstract = {The shift towards pluralism in global data ethics acknowledges the importance of including perspectives from the Global Majority to develop responsible data science practices that mitigate systemic harms in the current data science ecosystem. Sub-Saharan African (SSA) practitioners, in particular, are disseminating progressive data ethics principles and best practices for identifying and navigating anti-blackness and data colonialism. To center SSA voices in the global data ethics discourse, we present a framework for African data ethics informed by the thematic analysis of an interdisciplinary corpus of 47 documents. Our framework features six major principles: 1) Challenge Power Asymmetries, 2) Assert Data Self-Determination, 3) Invest in Local Data Institutions \\& Infrastructures, 4) Utilize Communalist Practices, 5) Center Communities on the Margins, and 6) Uphold Common Good. We compare our framework to seven particularist data ethics frameworks to find similar conceptual coverage but diverging interpretations of shared values. Finally, we discuss how African data ethics demonstrates the operational value of data ethics frameworks. Our framework highlights Sub-Saharan Africa as a pivotal site of responsible data science by promoting the practice of communalism, self-determination, and cultural preservation.},\nbooktitle = {Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency},\npages = {334–349},\nnumpages = {16},\nkeywords = {data ethics, AI ethics, data science, responsible AI, African philosophy},\nlocation = {\n},\nseries = {FAccT '25}\n}",
-			"links": {
-				"website_url": "https://dl.acm.org/doi/10.1145/3715275.3732023",
-				"talk_url": "https://youtu.be/T7FExhkcy0w?si=0fKpRYC0Ym8c2sI3"
-			}
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5878b82eb5cfce80b3a33b9f36ac53b317fc3198/images/subreddit.jpg",
 			"title": "Perceptions of Moderators as a Large-Scale Measure of Online Community Governance",
 			"id": "perceptions-of-moderators",
@@ -386,18 +351,18 @@
 			}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@249f0f02ea78fc7ffe571a1dac8db5e473444a90/images/principles.jpg",
-			"title": "African Data Ethics: A Discursive Framework for Black Decolonial Data Science",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@25f5b21570d6d48ac3ae134f3dfeacddef26fa1c/images/african%20data%20ethics.png",
+			"title": "African Data Ethics: A Discursive Framework for Black Decolonial AI",
 			"id": "african-data-ethics",
 			"author": [
 				{
 					"author_name": "Teanna Barrett"
 				},
 				{
-					"author_name": "Chinasa Okolo"
+					"author_name": "Chinasa T. Okolo"
 				},
 				{
-					"author_name": "B Biira"
+					"author_name": "B. Biira"
 				},
 				{
 					"author_name": "Eman Sherif"
@@ -410,15 +375,16 @@
 				}
 			],
 			"conference_full_name": "ACM Conference on Fairness, Accountability, and Transparency",
-			"conference url": "https://facctconference.org/",
 			"conference": "FAccT",
 			"year": "2025",
 			"short_abstract": "<p>We present a framework for African data ethics informed by an interdisciplinary corpus of African scholarship. By conducting a thematic analysis of 47 documents, our work leverages concepts of African philosophy to develop a framework with seven major principles.</p>",
-			"abstract": "Most artificial intelligence (AI) and other data-driven systems (DDS) are created by and for the benefit of global superpowers. The shift towards pluralism in global data ethics acknowledges the importance of including perspectives from the Global Majority to develop responsible data science (RDS) practices that mitigate systemic harms inherent to the current data science ecosystem. African practitioners, in particular, are disseminating progressive data ethics principles and best practices for identifying and navigating anti-blackness, colonialism, and data dispossession in the data science life cycle. However, their perspectives continue to be left at the periphery of global data ethics conversations. In an effort to center African voices, we present a framework for African data ethics informed by an interdisciplinary corpus of African scholarship. By conducting a thematic analysis of 47 documents, our work leverages concepts of African philosophy to develop a framework with seven major principles: 1) decolonize & challenge internal power asymmetry, 2) center all communities, 3) uphold universal good, 4) communalism in practice, 5) data self-determination, 6) invest in data institutions & infrastructures and 7) prioritize education & youth. We compare a subset of six particularist data ethics frameworks against ours and find similar coverage but diverging interpretations of shared values. We also discuss two case studies from the African data science community to demonstrate the framework as a tool for evaluating responsible data science decisions. Our framework highlights Africa as a pivotal site for challenging anti-blackness and algorithmic colonialism by promoting the practice of collectivism, self-determination, and cultural preservation in data science.",
+			"abstract": "The shift towards pluralism in global data ethics acknowledges the importance of including perspectives from the Global Majority to develop responsible data science practices that mitigate systemic harms in the current data science ecosystem. Sub-Saharan African (SSA) practitioners, in particular, are disseminating progressive data ethics principles and best practices for identifying and navigating anti-blackness and data colonialism. To center SSA voices in the global data ethics discourse, we present a framework for African data ethics informed by the thematic analysis of an interdisciplinary corpus of 47 documents. Our framework features six major principles: 1) Challenge Power Asymmetries, 2) Assert Data Self-Determination, 3) Invest in Local Data Institutions & Infrastructures, 4) Utilize Communalist Practices, 5) Center Communities on the Margins, and 6) Uphold Common Good. We compare our framework to seven particularist data ethics frameworks to find similar conceptual coverage but diverging interpretations of shared values. Finally, we discuss how African data ethics demonstrates the operational value of data ethics frameworks. Our framework highlights Sub-Saharan Africa as a pivotal site of responsible data science by promoting the practice of communalism, self-determination, and cultural preservation.",
+			"bibtex": "@inproceedings{10.1145/3715275.3732023,\nauthor = {Barrett, Teanna and Okolo, Chinasa T. and Biira, B. and Sherif, Eman and Zhang, Amy and Battle, Leilani},\ntitle = {African Data Ethics: A Discursive Framework for Black Decolonial AI},\nyear = {2025},\nisbn = {9798400714825},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3715275.3732023},\ndoi = {10.1145/3715275.3732023},\nabstract = {The shift towards pluralism in global data ethics acknowledges the importance of including perspectives from the Global Majority to develop responsible data science practices that mitigate systemic harms in the current data science ecosystem. Sub-Saharan African (SSA) practitioners, in particular, are disseminating progressive data ethics principles and best practices for identifying and navigating anti-blackness and data colonialism. To center SSA voices in the global data ethics discourse, we present a framework for African data ethics informed by the thematic analysis of an interdisciplinary corpus of 47 documents. Our framework features six major principles: 1) Challenge Power Asymmetries, 2) Assert Data Self-Determination, 3) Invest in Local Data Institutions \\& Infrastructures, 4) Utilize Communalist Practices, 5) Center Communities on the Margins, and 6) Uphold Common Good. We compare our framework to seven particularist data ethics frameworks to find similar conceptual coverage but diverging interpretations of shared values. Finally, we discuss how African data ethics demonstrates the operational value of data ethics frameworks. Our framework highlights Sub-Saharan Africa as a pivotal site of responsible data science by promoting the practice of communalism, self-determination, and cultural preservation.},\nbooktitle = {Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency},\npages = {334–349},\nnumpages = {16},\nkeywords = {data ethics, AI ethics, data science, responsible AI, African philosophy},\nlocation = {\n},\nseries = {FAccT '25}\n}",
 			"links": {
-				"pdf_url": "https://arxiv.org/abs/2502.16043"
-			},
-			"bibtex": "@inproceedings{10.1145/3715275.3732023,\nauthor = {Barrett, Teanna and Okolo, Chinasa T. and Biira, B. and Sherif, Eman and Zhang, Amy and Battle, Leilani},\ntitle = {African Data Ethics: A Discursive Framework for Black Decolonial AI},\nyear = {2025},\nisbn = {9798400714825},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3715275.3732023},\ndoi = {10.1145/3715275.3732023},\nabstract = {The shift towards pluralism in global data ethics acknowledges the importance of including perspectives from the Global Majority to develop responsible data science practices that mitigate systemic harms in the current data science ecosystem. Sub-Saharan African (SSA) practitioners, in particular, are disseminating progressive data ethics principles and best practices for identifying and navigating anti-blackness and data colonialism. To center SSA voices in the global data ethics discourse, we present a framework for African data ethics informed by the thematic analysis of an interdisciplinary corpus of 47 documents. Our framework features six major principles: 1) Challenge Power Asymmetries, 2) Assert Data Self-Determination, 3) Invest in Local Data Institutions \\& Infrastructures, 4) Utilize Communalist Practices, 5) Center Communities on the Margins, and 6) Uphold Common Good. We compare our framework to seven particularist data ethics frameworks to find similar conceptual coverage but diverging interpretations of shared values. Finally, we discuss how African data ethics demonstrates the operational value of data ethics frameworks. Our framework highlights Sub-Saharan Africa as a pivotal site of responsible data science by promoting the practice of communalism, self-determination, and cultural preservation.},\nbooktitle = {Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency},\npages = {334–349},\nnumpages = {16},\nkeywords = {data ethics, AI ethics, data science, responsible AI, African philosophy},\nlocation = {\n},\nseries = {FAccT '25}\n}"
+				"website_url": "",
+				"talk_url": "https://youtu.be/T7FExhkcy0w?si=0fKpRYC0Ym8c2sI3",
+				"pdf_url": "https://dl.acm.org/doi/10.1145/3715275.3732023"
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@aa46f3926428f96bd1c8be4cec4f4ca366638a18/images/pasted-image-1749836712838.png",
