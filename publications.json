@@ -1,6 +1,7 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@a01d5fa67069fb63e6790d7de4f2fc246e9ea0f7/images/workflow_diagram.png",
 			"title": "Promptimizer: User-led prompt optimization for personal content classification",
 			"author": [
 				{
