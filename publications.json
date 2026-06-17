@@ -1,6 +1,89 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@47fec5225aeb5eb9d96d9d27084e62c74228c095/images/Policypad%20Cover.png",
+			"title": "PolicyPad: Collaborative Prototyping of LLM Policies",
+			"id": "policypad-collaborative-prototyping-of-llm-policies",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Tzu-Sheng Kuo"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Inyoung Cheong"
+				},
+				{
+					"author_name": "Kenneth Holstein"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2026.acm.org/",
+			"conference": "CHI",
+			"year": "2026",
+			"short_abstract": "<p>We introduce PolicyPad, a collaborative system that enables rapid prototyping of LLM behavioral policies (i.e., model specs and constitutions).</p>",
+			"abstract": "As LLMs gain adoption in high-stakes domains like mental health, domain experts are increasingly consulted to provide input into policies governing their behavior. From an observation of 19 policymaking workshops with 9 experts over 15 weeks, we identified opportunities to better support rapid experimentation, feedback, and iteration for collaborative policy design processes. We present PolicyPad, an interactive system that facilitates the emerging practice of LLM policy prototyping by drawing from established UX prototyping practices, including heuristic evaluation and storyboarding. Using PolicyPad, policy designers can collaborate on drafting a policy in real time while independently testing policy-informed model behavior with usage scenarios. We evaluate PolicyPad through workshops with 8 groups of 22 domain experts in mental health and law, finding that PolicyPad enhanced collaborative dynamics during policy design, enabled tight feedback loops, and led to novel policy contributions. Overall, our work paves expert-informed paths for advancing AI alignment and safety.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2509.19680",
+				"code_url": "https://github.com/kjfeng/policypad",
+				"slides_url": "https://www.figma.com/deck/5CT0lTypextdGrsOPihQOy/PolicyPad-CHI-talk?node-id=14001-82&t=4YXBOtn9NGWSHDMd-1",
+				"video_url": "https://youtu.be/GbU9EOXjRHQ"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@d58371554c0597643f786ddc69ce094b6fea8f76/images/Cocoa%20Cover%20from%20Kevin%20Feng.png",
+			"title": "Cocoa: Co-Planning and Co-Execution with AI Agents",
+			"id": "cocoa-co-planning-and-co-execution-with-ai-agents",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Kevin Pu"
+				},
+				{
+					"author_name": "Matt Latzke"
+				},
+				{
+					"author_name": "Tal August"
+				},
+				{
+					"author_name": "Pao Siangliulue"
+				},
+				{
+					"author_name": "Jonathan Bragg"
+				},
+				{
+					"author_name": "Daniel S. Weld"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2026.acm.org/",
+			"conference": "CHI",
+			"year": "2026",
+			"award": "Best Paper",
+			"short_abstract": "<p>We introduce Cocoa, an interactive system that implements a new interface for human-agent collaboration in research workflows, inspired by the design of computational notebooks.</p>",
+			"abstract": "As AI agents take on increasingly long-running tasks involving sophisticated planning and execution, there is a corresponding need for novel interaction designs that enable deeper human-agent collaboration. However, most prior works leverage human interaction to fix \"autonomous\" workflows that have yet to become fully autonomous or rigidly treat planning and execution as separate stages. Based on a formative study with 9 researchers using AI to support their work, we propose a design that affords greater flexibility in collaboration, so that users can 1) delegate agency to the user or agent via a collaborative plan where individual steps can be assigned; and 2) interleave planning and execution so that plans can adjust after partial execution. We introduce Cocoa, a system that takes design inspiration from computational notebooks to support complex research tasks. A lab study (n=16) found that Cocoa enabled steerability without sacrificing ease-of-use, and a week-long field deployment (n=7) showed how researchers collaborated with Cocoa to accomplish real-world tasks.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2412.10999",
+				"slides_url": "https://www.figma.com/deck/gEF7zwHzklH6o1dOpIFrh6/Cocoa-CHI-talk--Copy-?node-id=7-588&t=StxtDAQ9fz2Y9nq1-1",
+				"video_url": "https://youtu.be/qOPayjrRMas"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@a01d5fa67069fb63e6790d7de4f2fc246e9ea0f7/images/workflow_diagram.png",
 			"title": "Promptimizer: User-led prompt optimization for personal content classification",
 			"author": [
@@ -23,7 +106,8 @@
 			"links": {
 				"pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3772318.3790923",
 				"code_url": "https://github.com/leijie-wang/youtube-filterbuddy"
-			}
+			},
+			"id": "promptimizer-user-led-prompt-optimization-for-personal-content-classification"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@5878b82eb5cfce80b3a33b9f36ac53b317fc3198/images/subreddit.jpg",
