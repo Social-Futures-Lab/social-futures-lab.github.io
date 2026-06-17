@@ -1,6 +1,36 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@1f9a6c531093b3ae0d5571b213358f6373789322/images/Screenshot%202026-06-16%20at%2011.06.20 PM.png",
+			"title": "Hedwig: Dynamic Autonomy for Coding Agents Under Local Oversight",
+			"author": [
+				{
+					"author_name": "Tanjal Shukla"
+				},
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Leijie Wang"
+				},
+				{
+					"author_name": "Mohammad Rostami"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Demo Paper",
+			"conference url": "https://www.caisconf.org/",
+			"conference": "ACM CAIS",
+			"year": "2026",
+			"award": "Top Demo",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2605.11495",
+				"code_url": "https://github.com/tanjalshukla/HedwigCLI"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@7448203fa02c1a5cc290fda4a0731337ca70b029/images/raters.jpg",
 			"title": "Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing",
 			"author": [
