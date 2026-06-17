@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@3002cbd0bbb8393c4a48b42c782e70f8f4eae70b/images/Photo%20May%2014%202026.jpg",
+			"title": "Kevin successfully defends his dissertation!",
+			"date": "May 2026",
+			"description": "Kevin successfully defended his dissertation \"Designing for Interactive Systems Powered by Generally Capable AI.\" His committee comprised of: Amy Zhang (Chair), David McDonald (Chair), Emily Tseng, Daniel S. Weld, and Benjamin Mako Hill.&nbsp;",
+			"link": {
+				"link_url": "https://www.figma.com/deck/zCGQHip6fXNnKO7pnJvzQi/Dissertation-talk--Copy-?node-id=0-1&t=hP3d3a3U79cR4EXj-1",
+				"link_text": "Slides"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@4adb1037d4d7439d51e01637bee393aed892ff4d/images/AIGI-Democratizing-AI-Points-Series-Barrett-NL-1200x627.png",
 			"title": "Teanna contributed to the Data & Society blog series, Democratizing AI for the Global Majority",
 			"date": "Feb 2026",
