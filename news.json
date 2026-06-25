@@ -21,6 +21,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@9cd987def9db5b9a168c874f94de2b400d87d353/images/Screenshot%202026-03-14%20at%2010.39.42 PM.png",
+			"title": "Kevin presents work on co-designing LLM behavioral policies with experts at IASEAI 2026",
+			"date": "Feb 2026",
+			"description": "Kevin presented a paper on <a href=\"https://virtual.oxfordabstracts.com/event/75968/submission/481\">Expert-Driven Prototyping of LLM Behavioral Policies</a> at the 2nd International Association for Safe and Ethical AI conference (IASEAI '26) in Paris, France. This paper focused on analyzing experts' (dis)agreement on responsible AI model behavior in domains of law and mental health, collected from our PolicyPad user studies.&nbsp;&nbsp;",
+			"link": {
+				"link_url": "https://www.iaseai.org/our-programs/iaseai26",
+				"link_text": "IASEAI 2026 website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@606bc5edc78412c12064ec519a42ae7630a3970b/images/bafkreidqy4ybassq4a63fsnujfadu2ij37xly2obtgttw6by6bq6khukmm.jpg",
 			"title": "SFL at CSCW: 3 attendees, 4 papers, and 2 paper awards",
 			"date": "Oct 2025",
