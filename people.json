@@ -718,12 +718,6 @@
 				"website_url": "http://www.linkedin.com/in/jane-carney20"
 			},
 			"@type": "Person"
-		},
-		{
-			"jobTitle": "phd",
-			"alum": false,
-			"links": {},
-			"@type": "Person"
-		}
+    }
 	]
 }
