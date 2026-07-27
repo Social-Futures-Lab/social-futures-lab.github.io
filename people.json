@@ -244,9 +244,9 @@
 		},
     {
 			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@d111a36ed76a4a06f02a0b1474b354b4ebe95694/images/IMG_9719.JPEG",
-      "name": "Jane Carney",
+      		"name": "Jane Carney",
 			"jobTitle": "intern",
-      "bio": "Jane is an undergraduate student at Saint Mary’s College of California studying Computer Science and Math. Her current research interests are in HCI, tech policy, and AI ethics.",
+      		"bio": "Jane is an undergraduate student at Saint Mary’s College of California studying Computer Science and Math. Her current research interests are in HCI, tech policy, and AI ethics.",
 			"alum": false,
 			"links": {
 				"website_url": "http://www.linkedin.com/in/jane-carney20"
