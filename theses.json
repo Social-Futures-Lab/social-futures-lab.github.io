@@ -9,7 +9,9 @@
 			],
 			"type": "Ph.D. Thesis",
 			"date": "August 2026",
-			"links": {}
+			"links": {
+				"pdf_url": "https://github.com/Social-Futures-Lab/social-futures-lab.github.io/blob/a70a1bbfc98187777f9d1ff953b247b07512eaa4/papers/ruotong_thesis.pdf"
+			}
 		},
 		{
 			"title": "Designing for Interactive Systems Powered by Generally Capable AI",
