@@ -1,6 +1,17 @@
 {
 	"thesis": [
 		{
+			"title": "Designing AI Information Artifacts for Teams",
+			"author": [
+				{
+					"author_name": "Ruotong Wang"
+				}
+			],
+			"type": "Ph.D. Thesis",
+			"date": "August 2026",
+			"links": {}
+		},
+		{
 			"title": "Designing for Interactive Systems Powered by Generally Capable AI",
 			"author": [
 				{
