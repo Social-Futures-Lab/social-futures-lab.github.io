@@ -34,17 +34,17 @@
 		{
 			"name": "Anna M. Fang",
 			"jobTitle": "postdoc",
-			"bio": "Anna is a postdoc at the University of Washington. Her research interests are in design, development, and evaluation of technology for mental health and well-being.",
+			"bio": "Anna is a postdoc at the University of Washington CSE. Her research interests are in design, development, and evaluation of technology for mental health and well-being.",
 			"links": {
 				"website_url": "https://annamfang.com",
 				"scholar_url": "https://scholar.google.com/citations?user=01R8ZBkAAAAJ&hl=en",
 				"email": "annadfang@gmail.com"
 			},
 			"@type": "Person",
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@ae67b3bea26c8f6d35019337a0b05708dbb66cd2/images/anna-headshot.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@24d2374da8b5ee2a681fdd9e45cc1ee861a0fc86/images/anna-headshot.jpg",
 			"alum": false
 		},
-		
+
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
 			"name": "Ruotong Wang",
